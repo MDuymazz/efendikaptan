@@ -35,7 +35,21 @@ with open(output_file, "w", encoding="utf-8") as output:
     for first_letter in sorted(grouped_channels.keys()):
         for country, channel_name, button_id_url in grouped_channels[first_letter]:
             clean_channel_name = channel_name.replace('"', '')
-            m3u_content = f"""#EXTINF:-1 tvg-id=\"None\" tvg-name=\"{clean_channel_name.upper()}\" tvg-logo=\"\" group-title=\"{country.upper()}\", {clean_channel_name.upper()}
+            
+            # Normal group-title (ülke adı)
+            group_title = country.upper()
+
+            if "TABII" in channel_name or "SPOR" in channel_name or "EXXEN" in channel_name or "BEIN" in channel_name:
+                group_title_with_sport = f"{group_title} | SPOR YAYINLARI"
+            else:
+                group_title_with_sport = group_title
+            
+            m3u_content = f"""#EXTINF:-1 tvg-id="None" tvg-name="{clean_channel_name.upper()}" tvg-logo="" group-title="{group_title}", {clean_channel_name.upper()}
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+{button_id_url}\n
+
+#EXTINF:-1 tvg-id="None" tvg-name="{clean_channel_name.upper()}" tvg-logo="" group-title="{group_title_with_sport}", {clean_channel_name.upper()}
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 {button_id_url}\n
