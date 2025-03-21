@@ -7,7 +7,10 @@ import time
 
 # ChromeOptions ile tarayıcı seçeneklerini ayarlama
 chrome_options = Options()
-# --user-data-dir parametresi kaldırıldı
+chrome_options.add_argument('--disable-extensions')  # Uzantıları devre dışı bırak
+chrome_options.add_argument('--headless')  # Başlık olmadan çalıştır
+chrome_options.add_argument('--no-sandbox')  # Sandboxing'i devre dışı bırak
+chrome_options.add_argument('--disable-dev-shm-usage')  # Geliştirici paylaşımlı bellek kullanımını devre dışı bırak
 
 # ChromeDriver'ı yükleyip başlatmak için Service kullanma
 service = Service(ChromeDriverManager().install())
