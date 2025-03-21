@@ -19,6 +19,7 @@ with open(input_file, "r", encoding="utf-8") as file:
             country = line.split('=')[1].strip().strip('"')
         elif line.startswith("Channel Name: "):
             channel_name = line.replace("Channel Name: ", "").strip().strip('"')
+            channel_name = re.sub(r"\(.*?\)", "", channel_name).strip()  # Parantez içindeki veriyi temizle
         elif line.startswith("Button ID URL: "):
             button_id_url = line.split(':', 1)[1].strip().strip('"')
             
