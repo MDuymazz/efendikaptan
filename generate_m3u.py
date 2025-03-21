@@ -29,7 +29,7 @@ with open(input_file, "r", encoding="utf-8") as file:
                 country = channel_name = button_id_url = None  # Verileri sıfırlıyoruz
 
 # tvg-name değerine göre ilk 11 harf baz alınarak sıralama
-channels.sort(key=lambda x: x[1][:11].upper())
+channels.sort(key=lambda x: x[1][:14].upper())
 
 # Öncelikli gruplar
 priority_groups = ["SPOR YAYINLARI", "BELGESEL YAYINLARI", "SİNEMA YAYINLARI", "TURKEY"]
