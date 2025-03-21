@@ -1,3 +1,5 @@
+import re
+
 # Dosyayı okuma ve verileri işleme
 input_file = "all_countries_channels.txt"  # Verilerin bulunduğu txt dosyasının adı
 output_file = "vavoo.m3u"  # Çıktı dosyasının adı
@@ -16,7 +18,7 @@ with open(output_file, "w", encoding="utf-8") as output:
             if line.startswith("Country = "):
                 country = line.split('=')[1].strip().strip('"')  # Ülke ismini al
             elif line.startswith("Channel Name: "):
-                channel_name = line.split("Channel Name: ")[1].strip().strip('"')  # Kanal ismini al
+                channel_name = line.replace("Channel Name: ", "").strip().strip('"')  # Kanal ismini al
             elif line.startswith("Button ID URL: "):
                 button_id_url = line.split(':', 1)[1].strip().strip('"')  # Buton ID URL'sini al
 
@@ -25,8 +27,11 @@ with open(output_file, "w", encoding="utf-8") as output:
                     if first_entry:
                         output.write("#EXTM3U\n\n\n")  # İlk kanal için #EXTM3U ekliyoruz
                         first_entry = False  # İlk kanal yazıldı, bundan sonra eklenmeyecek
-                    
-                    m3u_content = f"""#EXTINF:-1 tvg-id="None" tvg-name="{channel_name.upper()}" tvg-logo="" group-title="{country.upper()}", Channel Name: {channel_name.upper()}
+
+                    # Fazladan çift tırnakları temizle
+                    clean_channel_name = channel_name.replace('"', '')
+
+                    m3u_content = f"""#EXTINF:-1 tvg-id="None" tvg-name="{clean_channel_name.upper()}" tvg-logo="" group-title="{country.upper()}", {clean_channel_name.upper()}
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 {button_id_url}\n
