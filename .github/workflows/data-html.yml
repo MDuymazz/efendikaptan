@@ -27,34 +27,10 @@ jobs:
     - name: Set up Chrome
       uses: browser-actions/setup-chrome@v1
 
-    - name: Run Selenium Script
+    - name: Run Selenium Script and Update data.html
       run: |
-        python data_html.py
-        
-      # Data Html dosyasını kontrol ediyoruz
-    - name: Check if data.html is updated
-      id: check_update
-      run: |
-        echo "Checking if data.html was updated:"
-        cat data.html  # Dosyanın içeriğini kontrol ediyoruz
-        
-        # Eski ve yeni URL'yi alalım
-        OLD_URL=$(cat data.html)
-        NEW_URL=$(python data_html.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
-        
-        echo "Eski URL: $OLD_URL"
-        echo "Yeni URL: $NEW_URL"
-        
-        # Eğer eski URL ile yeni URL eşleşiyorsa, güncelleme yapılmadığını belirtiyoruz
-        if [ "$OLD_URL" == "$NEW_URL" ]; then
-          echo "URL güncellenmeye gerek yoktur"  # URL değişmemişse mesaj yazdırıyoruz
-          echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse bir environment variable set ediyoruz
-        else
-          echo "URL başarıyla data.html dosyasına güncellendi"
-          echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
-        fi
+        python data_html.py  # Bu adımda HTML içeriği doğrudan data.html dosyasına yazılacak
 
-    # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
     - name: Commit updated data.html
       run: |
         git config --global user.name "GitHub Actions"
@@ -65,10 +41,6 @@ jobs:
           echo "No changes detected. Skipping commit."
         else
           git add data.html
-          if [ "${{ env.no_update }}" == "true" ]; then
-            git commit -m "Domain URL güncellenmeye gerek yoktur"  # URL değişmemişse özel mesaj
-          else
-            git commit -m "Domain URL güncellendi."  # URL güncellenmişse normal mesaj
-          fi
+          git commit -m "Domain URL güncellendi."  # URL güncellenmişse normal mesaj
           git push
         fi
