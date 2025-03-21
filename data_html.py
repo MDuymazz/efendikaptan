@@ -1,12 +1,16 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import time
+
+# ChromeOptions ile tarayıcı seçeneklerini ayarlama
+chrome_options = Options()
+chrome_options.add_argument("--user-data-dir=/tmp/chrome_user_data")  # Özgün bir dizin kullanın
 
 # ChromeDriver'ı yükleyip başlatmak için Service kullanma
 service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service)
+driver = webdriver.Chrome(service=service, options=chrome_options)
 
 driver.get('https://proxyium.com/')
 
