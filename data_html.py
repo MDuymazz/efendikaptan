@@ -3,6 +3,7 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By  # By sınıfını ekliyoruz
 import time
 
 # ChromeOptions ile tarayıcı seçeneklerini ayarlama
