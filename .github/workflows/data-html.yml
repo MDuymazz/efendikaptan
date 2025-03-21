@@ -1,0 +1,32 @@
+name: Run Data Script
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  selenium-job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install selenium webdriver-manager
+
+    - name: Set up Chrome
+      uses: browser-actions/setup-chrome@v1
+
+    - name: Run Selenium Script
+      run: |
+        python data_html.py
