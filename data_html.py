@@ -4,14 +4,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import time
-import tempfile
-
-# Geçici bir dizin oluşturuluyor
-temp_dir = tempfile.mkdtemp()
 
 # ChromeOptions ile tarayıcı seçeneklerini ayarlama
 chrome_options = Options()
-chrome_options.add_argument(f"--user-data-dir={temp_dir}")  # Geçici bir dizin kullanıyoruz
+# --user-data-dir parametresi kaldırıldı
 
 # ChromeDriver'ı yükleyip başlatmak için Service kullanma
 service = Service(ChromeDriverManager().install())
@@ -45,6 +41,3 @@ try:
 finally:
     # Tarayıcıyı kapat
     driver.quit()
-
-    # Geçici dizini sil
-    os.rmdir(temp_dir)
