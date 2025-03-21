@@ -30,18 +30,45 @@ jobs:
     - name: Run Selenium Script
       run: |
         python data_html.py
-      continue-on-error: true  # Hata oluşursa devam et
+        
+      # Data Html dosyasını kontrol ediyoruz
+    - name: Check if data.html is updated
+      id: check_update
+      run: |
+        echo "Checking if data.html was updated:"
+        cat data.html  # Dosyanın içeriğini kontrol ediyoruz
+        
+        # Eski ve yeni URL'yi alalım
+        OLD_URL=$(cat data.html)
+        NEW_URL=$(python data_html.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
+        
+        echo "Eski URL: $OLD_URL"
+        echo "Yeni URL: $NEW_URL"
+        
+        # Eğer eski URL ile yeni URL eşleşiyorsa, güncelleme yapılmadığını belirtiyoruz
+        if [ "$OLD_URL" == "$NEW_URL" ]; then
+          echo "URL güncellenmeye gerek yoktur"  # URL değişmemişse mesaj yazdırıyoruz
+          echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse bir environment variable set ediyoruz
+        else
+          echo "URL başarıyla data.html dosyasına güncellendi"
+          echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+        fi
 
-    - name: Check if data.html has changed
+    # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
+    - name: Commit updated data.html
       run: |
-        git diff --exit-code data.html || echo "data.html has changed"
-    
-    # Commit ve Push işlemi, değişiklik varsa yapılacak
-    - name: Commit and push changes if updated
-      if: success() && steps.check_diff.outputs.changed == 'true'
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-        git add data.html
-        git commit -m "Update data.html"
-        git push
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        
+        # Değişiklik olup olmadığını kontrol et
+        if git diff --quiet; then
+          echo "No changes detected. Skipping commit."
+        else
+          git add data.html
+          if [ "${{ env.no_update }}" == "true" ]; then
+            git commit -m "Domain URL güncellenmeye gerek yoktur"  # URL değişmemişse özel mesaj
+          else
+            git commit -m "Domain URL güncellendi."  # URL güncellenmişse normal mesaj
+          fi
+          git push
+        fi
