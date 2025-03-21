@@ -1,21 +1,12 @@
-import os
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import time
 
-# ChromeOptions ile tarayıcı seçeneklerini ayarlama
-chrome_options = Options()
-chrome_options.add_argument('--disable-extensions')  # Uzantıları devre dışı bırak
-chrome_options.add_argument('--headless')  # Başlık olmadan çalıştır
-chrome_options.add_argument('--no-sandbox')  # Sandboxing'i devre dışı bırak
-chrome_options.add_argument('--disable-dev-shm-usage')  # Geliştirici paylaşımlı bellek kullanımını devre dışı bırak
-
 # ChromeDriver'ı yükleyip başlatmak için Service kullanma
 service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=chrome_options)
+driver = webdriver.Chrome(service=service)
 
 driver.get('https://proxyium.com/')
 
@@ -30,8 +21,8 @@ try:
     button = driver.find_element(By.XPATH, button_xpath)
     button.click()
 
-    # 60 saniye bekle (sayfa yüklenene kadar)
-    time.sleep(60)
+    # 30 saniye bekle
+    time.sleep(30)
 
     # Sayfanın HTML içeriğini al
     html_content = driver.page_source
@@ -41,9 +32,6 @@ try:
         file.write(html_content)
 
     print('HTML başarıyla kaydedildi.')
-
-except Exception as e:
-    print(f"Bir hata oluştu: {e}")
 
 finally:
     # Tarayıcıyı kapat
