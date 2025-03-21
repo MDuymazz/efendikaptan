@@ -30,3 +30,16 @@ jobs:
     - name: Run Selenium Script
       run: |
         python data_html.py
+
+    - name: Check if data.html has changed
+      run: |
+        git diff --exit-code data.html || echo "data.html has changed"
+
+    - name: Commit and push changes if updated
+      if: "!github.event.head_commit.message == 'data.html has changed'"  # Skip if no changes detected
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add data.html
+        git commit -m "Update data.html"
+        git push
