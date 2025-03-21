@@ -6,7 +6,7 @@ import time
 
 # ChromeOptions ile tarayıcı seçeneklerini ayarlama
 chrome_options = Options()
-chrome_options.add_argument("--user-data-dir=/tmp/chrome_user_data")  # Özgün bir dizin kullanın
+# --user-data-dir parametresini eklemiyoruz
 
 # ChromeDriver'ı yükleyip başlatmak için Service kullanma
 service = Service(ChromeDriverManager().install())
