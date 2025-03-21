@@ -44,15 +44,14 @@ jobs:
           git commit -m "Domain URL güncellendi."  # URL güncellenmişse normal mesaj
           git push
         fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # kanal.yml workflow'unu tetiklemek
+    # kanal.yml workflow'unu tetiklemek
     - name: Trigger kanal.yml workflow
       if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
       run: |
-          curl -X POST \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -d '{"ref": "main"}' \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/kanal.yml/dispatches
-
+        curl -X POST \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"ref": "main"}' \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/kanal.yml/dispatches
