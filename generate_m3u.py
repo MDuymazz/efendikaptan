@@ -39,7 +39,8 @@ with open(output_file, "w", encoding="utf-8") as output:
             # Normal group-title (ülke adı)
             group_title = country.upper()
 
-            if "TABII" in channel_name or "SPOR" in channel_name or "EXXEN" in channel_name or "BEIN" in channel_name:
+            # Sadece "Turkey" için "SPOR YAYINLARI" ekliyoruz
+            if country.upper() == "TURKEY" and ("TABII" in channel_name or "SPOR" in channel_name or "EXXEN" in channel_name or "BEIN" in channel_name):
                 group_title_with_sport = f"{group_title} | SPOR YAYINLARI"
             else:
                 group_title_with_sport = group_title
