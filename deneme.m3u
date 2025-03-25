@@ -5,6 +5,16 @@
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/161305206/index.m3u8
 
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", VEFA SULTAN
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", VEFA SULTAN
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/115261333/index.m3u8
+
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK DİZİ PROGRAMI", EŞREF RÜYA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -34,6 +44,16 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/863472446/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", GÖNÜL DAĞI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", GÖNÜL DAĞI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/115261333/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK DİZİ PROGRAMI", ÇATI KATI AŞK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -90,6 +110,16 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/863472446/index.m3u8
 
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", VUSLAT
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", VUSLAT
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/115261333/index.m3u8
+
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK DİZİ PROGRAMI", ZEMBILLI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -129,6 +159,26 @@ https://vavoo.to/play/387232860/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/231583905/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", SEKSENLER
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", SEKSENLER
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/115261333/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", VEFA SULTAN
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", VEFA SULTAN
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/115261333/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK DİZİ PROGRAMI", ARKA SOKAKLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -194,6 +244,16 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/863472446/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", MEHMED: FETIHLER SULTANI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK DİZİ PROGRAMI", MEHMED: FETIHLER SULTANI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/115261333/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK DİZİ PROGRAMI", EŞREF RÜYA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
