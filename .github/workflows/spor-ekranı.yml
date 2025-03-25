@@ -5,7 +5,7 @@ on:
     workflows: ["Generate M3U File"]  # Ana Domain workflow'u tamamlandığında çalışacak
     types:
       - completed
-
+  workflow_dispatch:
 jobs:
   generate-m3u:
     runs-on: ubuntu-latest
