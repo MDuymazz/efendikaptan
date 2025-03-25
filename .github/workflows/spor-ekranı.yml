@@ -1,11 +1,10 @@
 name: Generate SporEkranı File
 
 on:
-  workflow_run:
-    workflows: ["Generate M3U File"]  # Ana Domain workflow'u tamamlandığında çalışacak
-    types:
-      - completed
+  schedule:
+    - cron: '15 0 * * *'  # Her gün gece 00:15'te çalışacak
   workflow_dispatch:
+  
 jobs:
   generate-m3u:
     runs-on: ubuntu-latest
