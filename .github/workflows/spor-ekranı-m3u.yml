@@ -1,0 +1,45 @@
+name: Generate Günlük Maç m3u File
+
+on:
+  workflow_run:
+    workflows: ["Generate SporEkranı File"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    types:
+      - completed
+  workflow_dispatch:
+jobs:
+  generate-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+                
+    - name: Run SporEkranı Generator Script
+      run: |
+        python spor_ekranı_m3u.py  # Burada kodunuzu içeren dosyanın adı önemli!
+
+    - name: Commit and push updated SporEkranı file
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+        # Değişiklikleri kontrol et
+        git pull origin main  # Güncellemeleri çek
+        if git diff --quiet; then
+          echo "No changes detected. Skipping commit."
+        else
+          git add new_m3u.m3u
+          git commit -m "Otomatik olarak güncellenmiş Günlük m3u dosyası"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
