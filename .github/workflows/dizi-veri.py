@@ -3,6 +3,7 @@ name: Fetch TV Shows and Save to File
 on:
   schedule:
     - cron: '15 0 * * *'  # Her gün gece 00:15'te çalışacak
+  workflow_dispatch:
 
 jobs:
   fetch-tv-shows:
