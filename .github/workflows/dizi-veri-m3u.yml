@@ -41,7 +41,7 @@ jobs:
             echo "URL güncellemeye gerek yoktur"
             echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse environment variable set ediyoruz
           else
-            echo "URL başarıyla dziler.m3u dosyasına güncellendi"
+            echo "URL başarıyla diziler.m3u dosyasına güncellendi"
             echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
           fi
 
@@ -56,7 +56,7 @@ jobs:
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
           else
-            git add dziler.m3u
+            git add diziler.m3u
             if [ "${{ env.no_update }}" == "true" ]; then
               git commit -m "Domain URL güncellenmeye gerek yoktur"
             else
