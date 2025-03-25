@@ -1,0 +1,55 @@
+name: Generate SporEkranı File
+
+on:
+  workflow_run:
+    workflows: ["Generate M3U File"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    types:
+      - completed
+
+jobs:
+  generate-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+        
+    - name: Run SporEkranı Generator Script
+      run: |
+        python sporekranı.py  # Burada kodunuzu içeren dosyanın adı önemli!
+
+    - name: Commit and push updated SporEkranı file
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+        # Değişiklikleri kontrol et
+        git pull origin main  # Güncellemeleri çek
+        if git diff --quiet; then
+          echo "No changes detected. Skipping commit."
+        else
+          git add veri.txt
+          git commit -m "Otomatik olarak güncellenmiş Veri dosyası"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        # spor-ekranı-m3u.yml workflow'unu tetiklemek
+    - name: Trigger spor-ekranı-m3u.yml workflow
+      if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
+      run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"ref": "main"}' \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/spor-ekranı-m3u.yml/dispatches
