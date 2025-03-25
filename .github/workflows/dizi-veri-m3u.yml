@@ -23,30 +23,30 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           
-      - name: Run diziler_m3u.py
+      - name: Run dziler_m3u.py
         run: |
-          python diziler_m3u.py
+          python dziler_m3u.py
 
       # Ana link dosyasını kontrol ediyoruz
-      - name: Check if diziler.m3u is updated
+      - name: Check if dziler.m3u is updated
         id: check_update
         run: |
-          echo "Checking if diziler.m3u was updated:"
-          cat diziler.m3u  # Dosyanın içeriğini kontrol ediyoruz
+          echo "Checking if dziler.m3u was updated:"
+          cat dziler.m3u  # Dosyanın içeriğini kontrol ediyoruz
           
-          OLD_URL=$(cat diziler.m3u)
+          OLD_URL=$(cat dziler.m3u)
           NEW_URL=$(python diziler_m3u.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
           
           if [ "$OLD_URL" == "$NEW_URL" ]; then
             echo "URL güncellemeye gerek yoktur"
             echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse environment variable set ediyoruz
           else
-            echo "URL başarıyla diziler.m3u dosyasına güncellendi"
+            echo "URL başarıyla dziler.m3u dosyasına güncellendi"
             echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
           fi
 
       # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
-      - name: Commit updated diziler.m3u
+      - name: Commit updated dziler.m3u
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
@@ -56,7 +56,7 @@ jobs:
           if git diff --quiet; then
             echo "No changes detected. Skipping commit."
           else
-            git add diziler.m3u
+            git add dziler.m3u
             if [ "${{ env.no_update }}" == "true" ]; then
               git commit -m "Domain URL güncellenmeye gerek yoktur"
             else
