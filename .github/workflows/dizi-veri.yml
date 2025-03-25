@@ -43,3 +43,12 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # dizi-veri-m3u.yml workflow'unu tetiklemek
+    - name: Trigger dizi-veri-m3u.yml workflow
+      if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
+      run: |
+        curl -X POST \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"ref": "main"}' \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/dizi-veri-m3u.yml/dispatches
