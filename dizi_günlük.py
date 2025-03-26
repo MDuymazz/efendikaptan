@@ -1,35 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
-from datetime import datetime
 
-# Haftalık dizi listesi için günler
-gunler = {
-    "monday": "pazartesi-dizileri",
-    "tuesday": "sali-dizileri",
-    "wednesday": "carsamba-dizileri",
-    "thursday": "persembe-dizileri",
-    "friday": "cuma-dizileri",
-    "saturday": "cumartesi-dizileri",
-    "sunday": "pazar-dizileri"
-}
-
-# Bugünün gününü al (İngilizce)
-bugun_gun = datetime.now().strftime("%A").lower()
-
-# Eğer bugünün adı listede varsa, o günün dizilerini al
-if bugun_gun in gunler:
-    gun = gunler[bugun_gun]
-else:
-    print(f"Bugün için geçerli bir gün bulunamadı: {bugun_gun}")
-    exit()
-
+# Veriyi çekeceğimiz temel URL
 base_url = "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-diziler-var/"
 
 # Sonuçları saklamak için liste
 results = []
 
-url = base_url + gun
-response = requests.get(url)
+response = requests.get(base_url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # Tüm dizi öğelerini bulma
@@ -54,7 +32,7 @@ for dizi in dizi_listesi:
     # Logo URL
     logo_url = dizi.find('div', class_='channel-epg-link').find('img')['src']
 
-    # Gün bilgisini başına ekleyerek format oluşturma
+    # Formatlı veri oluşturma
     output = f"""
 MAÇ ADI= {match_name} 
 SAAT= {time}
@@ -68,4 +46,4 @@ LOGO URL= {logo_url}
 with open("diziler.txt", "w", encoding="utf-8") as file:
     file.writelines(results)
 
-print(f"Bugün {bugun_gun.upper()} günü için veriler diziler.txt dosyasına kaydedildi.")
+print("Bugünün dizileri diziler.txt dosyasına kaydedildi.")
