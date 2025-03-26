@@ -8,6 +8,16 @@ SAAT= 00:00
 KANAL= BEIN SPORTS BEIN CONNECT
 LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
+MAÇ ADI= L.MUSETTI - N.DJOKOVIC
+SAAT= 01:30
+KANAL= S SPORT PLUS
+LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
+
+MAÇ ADI= A.DE MINAUR - M.BERRETTINI
+SAAT= 01:30
+KANAL= S SPORT PLUS
+LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
+
 MAÇ ADI= GAYONE/GUEVARA - AGUIRRE/ALFONSO
 SAAT= 01:30
 KANAL= BEIN SPORTS BEIN CONNECT
@@ -22,11 +32,6 @@ MAÇ ADI= CHARLOTTE HORNETS - ORLANDO MAGIC
 SAAT= 02:00
 KANAL= NBA TV
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= T.MACHAC - J.MENSIK
-SAAT= 02:00
-KANAL= S SPORT PLUS
-LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
 MAÇ ADI= A.SABALENKA - Q.ZHENG
 SAAT= 02:00
@@ -47,11 +52,6 @@ MAÇ ADI= HOUSTON ROCKETS - ATLANTA HAWKS
 SAAT= 03:00
 KANAL= NBA TV
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= A.ZVEREV - A.FILS
-SAAT= 03:30
-KANAL= S SPORT PLUS
-LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
 MAÇ ADI= SANS/QUILEZ - CHAMERO/VALDES
 SAAT= 03:30
@@ -308,6 +308,11 @@ SAAT= 17:00
 KANAL= TBF TV YOUTUBE
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
+MAÇ ADI= İSTANBUL BB - GAZIANTEP GENÇLIK
+SAAT= 17:00
+KANAL= TRT SPOR YILDIZ
+LOGO URL= https://w7.pngwing.com/pngs/743/385/png-transparent-volleyball-volleyball-sport-logo-volleyball-thumbnail.png
+
 MAÇ ADI= ETAP 3
 SAAT= 17:15
 KANAL= EUROSPORT 2
@@ -332,6 +337,11 @@ MAÇ ADI= TIVIBU ANA HABER
 SAAT= 18:00
 KANAL= TIVIBU SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= MARTINEZ/COLLOMBON - VILLA/PRIETO
+SAAT= 18:00
+KANAL= BEIN SPORTS MAX 2
+LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
 MAÇ ADI= ERKEKLER İNIŞ
 SAAT= 18:15
@@ -397,6 +407,11 @@ MAÇ ADI= SPOR AKŞAMI
 SAAT= 20:00
 KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= CARRASCO/ARANCIBIA - GARCIA/SANCHEZ
+SAAT= 20:00
+KANAL= BEIN SPORTS MAX 2
+LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
 MAÇ ADI= ANADOLU EFES - BASKONIA
 SAAT= 20:30
@@ -467,6 +482,11 @@ MAÇ ADI= HER GECE SPOR
 SAAT= 22:00
 KANAL= TIVIBU SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= MOYANO/CASAS - STUPACZUK/LEBRON
+SAAT= 22:00
+KANAL= BEIN SPORTS BEIN CONNECT
+LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
 MAÇ ADI= MACCABI PLAYTIKA - PANATHINAIKOS
 SAAT= 22:05
