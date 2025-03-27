@@ -40,7 +40,7 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= S.KORDA - N.DJOKOVIC
 SAAT= 03:30
-KANAL= S SPORT PLUS
+KANAL= SARAN SPORT 2
 LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
 MAÇ ADI= ÇIFTLER KISA PROGRAM
@@ -380,7 +380,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= ASVEL VILLEURBANNE - ZALGIRIS KAUNAS
 SAAT= 22:00
-KANAL= S SPORT PLUS
+KANAL= SARAN SPORT 2
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= OLYMPIAKOS - MONACO
@@ -390,12 +390,12 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= OLIMPIA MILANO - BARCELONA
 SAAT= 22:30
-KANAL= S SPORT PLUS
+KANAL= SARAN SPORT 2
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= BAYERN MÜNIH - PARTIZAN
 SAAT= 22:30
-KANAL= S SPORT PLUS
+KANAL= SARAN SPORT 2
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= WISLA PLOCK - NANTES
@@ -410,7 +410,7 @@ LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_21397
 
 MAÇ ADI= BARCELONA - OSASUNA
 SAAT= 23:00
-KANAL= S SPORT PLUS
+KANAL= SARAN SPORT 2
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= LEYTON ORIENT - STEVENAGE
