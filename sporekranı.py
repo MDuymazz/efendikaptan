@@ -68,8 +68,8 @@ def scrape_sporekrani():
             
             # Eğer S SPORT PLUS varsa, iki farklı kanal şeklinde ekle
             if main_channel.upper() == "S SPORT PLUS":
-                output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+1 MAC SAATI}\nLOGO URL= {logo_url}\n\n"
-                output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+2 MAC SAATI}\nLOGO URL= {logo_url}\n\n"
+                output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+1 MAC SAATI\nLOGO URL= {logo_url}\n\n"
+                output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+2 MAC SAATI\nLOGO URL= {logo_url}\n\n"
                 file.write(output1)
                 file.write(output2)
             else:
