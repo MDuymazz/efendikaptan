@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "0 */8 * * *"  # Her 6 saatte bir çalıştır
+  - cron: "1 9,21 * * *"
 
 jobs:
   selenium-job:
