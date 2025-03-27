@@ -69,7 +69,7 @@ def scrape_sporekrani():
                 main_channel = "NBA TV"
             # 'TUTTUR TV' ise 'S SPORT PLUS' olarak değiştir
             if main_channel.upper() == "S SPORT PLUS":
-                main_channel = "S SPORT 2"
+                main_channel = "S-SPORT PLUS FHD"
             
             # Sıralama: Maç Adı, Saat, Kanal, Logo URL
             output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel.upper()}\nLOGO URL= {logo_url}\n\n"
