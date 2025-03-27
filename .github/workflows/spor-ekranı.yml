@@ -2,7 +2,8 @@ name: Generate SporEkranı File
 
 on:
   schedule:
-    - cron: '15 0 * * *'  # Her gün gece 00:15'te çalışacak
+  - cron: "7 21 * * *"
+  
   workflow_dispatch:
   
 jobs:
