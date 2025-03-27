@@ -2,7 +2,7 @@ name: Fetch TV Shows and Save to File
 
 on:
   schedule:
-    - cron: '15 0 * * *'  # Her gün gece 00:15'te çalışacak
+     - cron: "9 21 * * *"
   workflow_dispatch:
 
 jobs:
