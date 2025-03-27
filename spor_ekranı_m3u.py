@@ -13,7 +13,7 @@ def read_m3u_file(m3u_file):
                 # URL'nin bulunduğu satır, her zaman 4. satırda (sonuncu satır)
                 url = lines[lines.index(line) + 3].strip()  # Stream URL
                 channel_info["url"] = url
-                channel_info["group_title"] = "SPOR EKRANI"  # group-title her zaman SPOR EKRANI olacak
+                channel_info["group_title"] = "GÜNLÜK SPOR AKIŞI"  # group-title her zaman SPOR EKRANI olacak
                 channels.append(channel_info)
                 channel_info = {}
         return channels
