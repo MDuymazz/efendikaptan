@@ -17,7 +17,7 @@ def read_m3u_file(m3u_file):
             if i + 3 < len(lines):
                 channel_info["url"] = lines[i + 3].strip()  # URL satırı
                 
-            channel_info["group_title"] = "GÜNLÜK DİZİ PROGRAMI"  # Tüm kanallar aynı grup olacak
+            channel_info["group_title"] = "GÜNLÜK TELEVİZYON AKIŞI"  # Tüm kanallar aynı grup olacak
             channels.append(channel_info)
         i += 1
     
