@@ -51,28 +51,29 @@ def scrape_sporekrani():
             channel_names = []
             for channel_tag in channel_tags:
                 channel_name = channel_tag.get("title", "").strip()
-                if channel_name:  # Eğer kanal adı varsa ekleyelim
+                if channel_name:  
                     channel_names.append(channel_name)
             
             # Kanal adı 'TUTTUR TV' ise bir sonraki kanal bilgisini alalım
             for i in range(len(channel_names)):
                 if channel_names[i].upper() == "TUTTUR TV" and i + 1 < len(channel_names):
-                    # 'TUTTUR TV' bulunduysa, bir sonraki kanal ismini alıyoruz
                     main_channel = channel_names[i + 1]
                     break
             else:
-                # Eğer 'TUTTUR TV' bulunmazsa, ilk kanal alınır
                 main_channel = channel_names[0] if channel_names else "Bulunamadı"
             
-            # 'TUTTUR TV' ise 'NBA TV' olarak değiştir
+            # Özel kanal dönüşümleri
             if main_channel.upper() == "TUTTUR TV":
                 main_channel = "NBA TV"
-            # 'TUTTUR TV' ise 'S SPORT PLUS' olarak değiştir
-            if main_channel.upper() == "S SPORT PLUS":
-                main_channel = "S-SPORT PLUS FHD"
             
-            # Sıralama: Maç Adı, Saat, Kanal, Logo URL
-            output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel.upper()}\nLOGO URL= {logo_url}\n\n"
-            file.write(output)
+            # Eğer S SPORT PLUS varsa, iki farklı kanal şeklinde ekle
+            if main_channel.upper() == "S SPORT PLUS":
+                output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+1 {match_time.upper()}\nLOGO URL= {logo_url}\n\n"
+                output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+2 {match_time.upper()}\nLOGO URL= {logo_url}\n\n"
+                file.write(output1)
+                file.write(output2)
+            else:
+                output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel.upper()}\nLOGO URL= {logo_url}\n\n"
+                file.write(output)
 
 scrape_sporekrani()
