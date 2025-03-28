@@ -65,6 +65,8 @@ def scrape_sporekrani():
             # Özel kanal dönüşümleri
             if main_channel.upper() == "TUTTUR TV":
                 main_channel = "NBA TV"
+            if main_channel.upper() == "BEIN SPORTS 1":
+                main_channel = "BEIN SPORTS 8K FEED"
             
             # Eğer S SPORT PLUS varsa, iki farklı kanal şeklinde ekle
             if main_channel.upper() == "S SPORT PLUS":
