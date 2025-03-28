@@ -3,23 +3,32 @@ from datetime import datetime
 # M3U dosyasındaki verileri oku (group-title="TURKEY" ve group-title="SPOR YAYINLARI" olanları al)
 def read_m3u_file(m3u_file):
     channels = []
+    
     with open(m3u_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-
-    for i, line in enumerate(lines):
+    
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        
         if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line:
             channel_info = {}
+
+            # Kanal adını al
             parts = line.split('tvg-name="')
             if len(parts) > 1:
-                channel_info["name"] = parts[1].split('"')[0]  # Kanal adı
+                channel_info["name"] = parts[1].split('"')[0]
 
-            if i + 1 < len(lines):  # Son satır olup olmadığını kontrol et
-                channel_info["url"] = lines[i + 1].strip()  # Bir sonraki satırda URL var
+            # URL'yi al (her zaman bir sonraki satır)
+            if i + 1 < len(lines):
+                channel_info["url"] = lines[i + 1].strip()
 
             channel_info["group_title"] = "GÜNLÜK SPOR AKIŞI"  # Sabit grup başlığı
 
             channels.append(channel_info)
-
+        
+        i += 1  # Bir sonraki satıra geç
+    
     return channels
 
 
@@ -49,7 +58,7 @@ def read_veri_txt(veri_file):
 
 # Yeni M3U dosyasını oluştur
 def create_new_m3u(m3u_channels, match_details, output_file):
-    # Saat bilgisine göre sıralama yap (HH:MM formatında olduğunu varsayarak)
+    # Saat bilgisine göre sıralama yap (HH:MM formatına göre)
     match_details_sorted = sorted(match_details, key=lambda x: datetime.strptime(x["time"], "%H:%M"))
 
     with open(output_file, 'w', encoding='utf-8') as f:
