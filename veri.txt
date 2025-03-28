@@ -265,7 +265,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= KAYSERISPOR - HATAYSPOR
 SAAT= 16:00
-KANAL= BEIN SPORTS 1
+KANAL= BEIN SPORTS 8K FEED
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= ANTALYASPOR - ALANYASPOR
@@ -395,7 +395,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= BEIN SÜPER LIG
 SAAT= 19:30
-KANAL= BEIN SPORTS 1
+KANAL= BEIN SPORTS 8K FEED
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= MAÇ BAŞLIYOR
@@ -445,7 +445,7 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= BODRUMSPOR - FENERBAHÇE
 SAAT= 20:30
-KANAL= BEIN SPORTS 1
+KANAL= BEIN SPORTS 8K FEED
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= KONYASPOR - GAZIANTEP FK
@@ -595,7 +595,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= BEIN SÜPER LIG MAÇ SONU
 SAAT= 22:30
-KANAL= BEIN SPORTS 1
+KANAL= BEIN SPORTS 8K FEED
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= MAÇIN ARDINDAN
