@@ -1,16 +1,26 @@
-MAÇ ADI= BAUTISTA/GUERRERO - CHINGOTTO/GALAN
-SAAT= 01:00
-KANAL= BEIN SPORTS BEIN CONNECT
-LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
-
 MAÇ ADI= SPOR ARTI
 SAAT= 01:00
 KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
+MAÇ ADI= BAUTISTA/GUERRERO - CHINGOTTO/GALAN
+SAAT= 01:00
+KANAL= BEIN SPORTS BEIN CONNECT
+LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
+
 MAÇ ADI= CLEVELAND CAVALIERS - SA SPURS
 SAAT= 02:00
 KANAL= S SPORT
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= ORLANDO MAGIC - DALLAS MAVERICKS
+SAAT= 02:00
+KANAL= NBA TV
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= WASHINGTON WIZARDS - INDIANA PACERS
+SAAT= 02:00
+KANAL= NBA TV
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= T.FRITZ - M.BERRETTINI
@@ -22,16 +32,6 @@ MAÇ ADI= T.FRITZ - M.BERRETTINI
 SAAT= 02:00
 KANAL= S-SPORT+2 MAC SAATI
 LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
-
-MAÇ ADI= ORLANDO MAGIC - DALLAS MAVERICKS
-SAAT= 02:00
-KANAL= NBA TV
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= WASHINGTON WIZARDS - INDIANA PACERS
-SAAT= 02:00
-KANAL= NBA TV
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= ALABAMA - BRIGHAM YOUNG
 SAAT= 02:09
@@ -58,12 +58,12 @@ SAAT= 02:39
 KANAL= S-SPORT+2 MAC SAATI
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
-MAÇ ADI= CHICAGO BULLS - LA LAKERS
+MAÇ ADI= OKC THUNDER - MEMPHIS GRIZZLIES
 SAAT= 03:00
 KANAL= NBA TV
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
-MAÇ ADI= OKC THUNDER - MEMPHIS GRIZZLIES
+MAÇ ADI= CHICAGO BULLS - LA LAKERS
 SAAT= 03:00
 KANAL= NBA TV
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
@@ -113,6 +113,11 @@ SAAT= 07:00
 KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
+MAÇ ADI= SABAH HABER BÜLTENI
+SAAT= 07:00
+KANAL= TRT SPOR YILDIZ
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
 MAÇ ADI= SABAH SPORU
 SAAT= 08:00
 KANAL= A SPOR
@@ -138,14 +143,19 @@ SAAT= 10:00
 KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
+MAÇ ADI= LAUNCESTON
+SAAT= 10:05
+KANAL= TJK TV
+LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
+
 MAÇ ADI= SPOR GAZETESI
 SAAT= 10:30
 KANAL= TIVIBU SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= SPOR MANŞET
+MAÇ ADI= BEIN SABAH
 SAAT= 11:00
-KANAL= TRT SPOR
+KANAL= BEIN SPORTS HABER
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= SPOR AJANSI
@@ -153,9 +163,9 @@ SAAT= 11:00
 KANAL= A SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= BEIN SABAH
+MAÇ ADI= SPOR MANŞET
 SAAT= 11:00
-KANAL= BEIN SPORTS HABER
+KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= MACARTHUR BULLS - NEWCASTLE JETS
@@ -178,14 +188,19 @@ SAAT= 13:00
 KANAL= NBA TV
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
-MAÇ ADI= HER GÜN SPOR
-SAAT= 14:00
-KANAL= TIVIBU SPOR
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+MAÇ ADI= FAIRVIEW
+SAAT= 13:05
+KANAL= TJK TV
+LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
 
-MAÇ ADI= SPOR STÜDYOSU
+MAÇ ADI= İSVIÇRE
+SAAT= 13:50
+KANAL= EUROSPORT
+LOGO URL= Bulunamadı
+
+MAÇ ADI= GÜNÜN ORTASI
 SAAT= 14:00
-KANAL= TRT SPOR
+KANAL= GS TV
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= ÇANKAYA ÜNI. - TURGUTLU BLD.
@@ -198,15 +213,30 @@ SAAT= 14:00
 KANAL= TBF TV YOUTUBE
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
-MAÇ ADI= GÜNÜN ORTASI
-SAAT= 14:00
-KANAL= GS TV
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
-
 MAÇ ADI= GÜN ORTASI
 SAAT= 14:00
 KANAL= A SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= SPOR STÜDYOSU
+SAAT= 14:00
+KANAL= TRT SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= HER GÜN SPOR
+SAAT= 14:00
+KANAL= TIVIBU SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= NBA STÜDYOSU
+SAAT= 14:00
+KANAL= TRT SPOR YILDIZ
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= BURSA
+SAAT= 14:45
+KANAL= TJK TV
+LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
 
 MAÇ ADI= KAYSERI BASKET - FENERBAHÇE OPET
 SAAT= 15:00
@@ -228,14 +258,19 @@ SAAT= 15:30
 KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
+MAÇ ADI= BEIN SÜPER LIG MAÇ BAŞLIYOR
+SAAT= 15:35
+KANAL= BEIN SPORTS 2
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= KAYSERISPOR - HATAYSPOR
+SAAT= 16:00
+KANAL= BEIN SPORTS 1
+LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+
 MAÇ ADI= ANTALYASPOR - ALANYASPOR
 SAAT= 16:00
 KANAL= BEIN SPORTS 2
-LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
-
-MAÇ ADI= ERZURUMSPOR - MANISA FK
-SAAT= 16:00
-KANAL= BEIN SPORTS MAX 1
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= BOLUSPOR - BANDIRMASPOR
@@ -243,39 +278,59 @@ SAAT= 16:00
 KANAL= TRT SPOR
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
+MAÇ ADI= ERZURUMSPOR - MANISA FK
+SAAT= 16:00
+KANAL= BEIN SPORTS MAX 1
+LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+
 MAÇ ADI= EGE ÜNI. - ETIMESGUT BLD.
 SAAT= 16:00
 KANAL= TBF TV YOUTUBE
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
-MAÇ ADI= KAYSERISPOR - HATAYSPOR
-SAAT= 16:00
-KANAL= BEIN SPORTS 1
-LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+MAÇ ADI= ETAP 5
+SAAT= 16:15
+KANAL= EUROSPORT 2
+LOGO URL= https://st3.depositphotos.com/1768926/19164/v/950/depositphotos_191646480-stock-illustration-bike-logo-icon-design-template.jpg
+
+MAÇ ADI= ERKEKLER
+SAAT= 16:45
+KANAL= EUROSPORT
+LOGO URL= Bulunamadı
 
 MAÇ ADI= BURHANIYE BLD. - MERSIN BB
 SAAT= 17:00
 KANAL= TBF TV YOUTUBE
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
+MAÇ ADI= LINGFIELD PARK
+SAAT= 17:05
+KANAL= TJK TV
+LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
+
 MAÇ ADI= BLAST OPEN SPRING
 SAAT= 17:30
 KANAL= TIVIBU SPOR 4
 LOGO URL= Bulunamadı
 
-MAÇ ADI= GÜNDEM FUTBOL
+MAÇ ADI= İZMIR
+SAAT= 17:30
+KANAL= TJK TV
+LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
+
+MAÇ ADI= MERSIN BB - EDREMIT BLD.
 SAAT= 18:00
-KANAL= TRT SPOR
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+KANAL= TBF TV YOUTUBE
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= ANA HABER
 SAAT= 18:00
 KANAL= A SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= BEIN ANA HABER
+MAÇ ADI= GÜNDEM FUTBOL
 SAAT= 18:00
-KANAL= BEIN SPORTS HABER
+KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= TIVIBU ANA HABER
@@ -283,20 +338,45 @@ SAAT= 18:00
 KANAL= TIVIBU SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= MERSIN BB - EDREMIT BLD.
+MAÇ ADI= ERKEKLER
 SAAT= 18:00
-KANAL= TBF TV YOUTUBE
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+KANAL= EUROSPORT 2
+LOGO URL= https://st3.depositphotos.com/1768926/19164/v/950/depositphotos_191646480-stock-illustration-bike-logo-icon-design-template.jpg
+
+MAÇ ADI= BEIN SÜPER LIG MAÇIN ARDINDAN
+SAAT= 18:00
+KANAL= BEIN SPORTS 2
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= FENERIN MAÇI VAR
+SAAT= 18:00
+KANAL= FB TV
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= TURAN - KARABAĞ
 SAAT= 18:30
 KANAL= CBC SPORT
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
+MAÇ ADI= BEIN BASKET MAÇ ÖNÜ
+SAAT= 18:40
+KANAL= BEIN SPORTS 5
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= ANALIZ FENERBAHÇE
+SAAT= 18:50
+KANAL= FB TV
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
 MAÇ ADI= BEŞIKTAŞ FIBABANKA - YALOVASPOR
 SAAT= 19:00
 KANAL= BEIN SPORTS 5
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= ABD
+SAAT= 19:00
+KANAL= EUROSPORT
+LOGO URL= Bulunamadı
 
 MAÇ ADI= GS TV ANA HABER
 SAAT= 19:05
@@ -313,13 +393,23 @@ SAAT= 19:30
 KANAL= S SPORT
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= PSG ŞAMPIYONLAR LIGI
-SAAT= 19:45
-KANAL= TRT SPOR
+MAÇ ADI= BEIN SÜPER LIG
+SAAT= 19:30
+KANAL= BEIN SPORTS 1
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= SPOR MERKEZI
-SAAT= 20:00
+MAÇ ADI= MAÇ BAŞLIYOR
+SAAT= 19:30
+KANAL= FB TV
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= GULFSTREAM
+SAAT= 19:35
+KANAL= TJK TV
+LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
+
+MAÇ ADI= PSG ŞAMPIYONLAR LIGI
+SAAT= 19:45
 KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
@@ -333,24 +423,14 @@ SAAT= 20:00
 KANAL= S-SPORT+2 MAC SAATI
 LOGO URL= https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png
 
-MAÇ ADI= MAÇ ANI
-SAAT= 20:30
-KANAL= TIVIBU SPOR
+MAÇ ADI= SPOR MERKEZI
+SAAT= 20:00
+KANAL= TRT SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= ANADOLU EFES - MACCABI PLAYTIKA
+MAÇ ADI= HAMBURG - ELVERSBERG
 SAAT= 20:30
-KANAL= S SPORT
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= IĞDIRSPOR - ÜMRANIYESPOR
-SAAT= 20:30
-KANAL= BEIN SPORTS MAX 2
-LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
-
-MAÇ ADI= GENÇLERBIRLIĞI - ŞANLIURFASPOR
-SAAT= 20:30
-KANAL= TRT SPOR
+KANAL= BEIN SPORTS 3
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= ULM - DARMSTADT 98
@@ -358,20 +438,10 @@ SAAT= 20:30
 KANAL= TIVIBU SPOR 3
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
-MAÇ ADI= HAPOEL JERUSALEM - VALENCIA BASKET
+MAÇ ADI= ANADOLU EFES - MACCABI PLAYTIKA
 SAAT= 20:30
-KANAL= TRT SPOR YILDIZ
+KANAL= S SPORT
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= HAMBURG - ELVERSBERG
-SAAT= 20:30
-KANAL= BEIN SPORTS 3
-LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
-
-MAÇ ADI= SKORBORD
-SAAT= 20:30
-KANAL= A SPOR
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= BODRUMSPOR - FENERBAHÇE
 SAAT= 20:30
@@ -383,14 +453,39 @@ SAAT= 20:30
 KANAL= BEIN SPORTS 2
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
-MAÇ ADI= FENERBAHÇE BEKO - BASKONIA
-SAAT= 20:45
-KANAL= S-SPORT+1 MAC SAATI
+MAÇ ADI= GENÇLERBIRLIĞI - ŞANLIURFASPOR
+SAAT= 20:30
+KANAL= TRT SPOR
+LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+
+MAÇ ADI= IĞDIRSPOR - ÜMRANIYESPOR
+SAAT= 20:30
+KANAL= BEIN SPORTS MAX 2
+LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+
+MAÇ ADI= HAPOEL JERUSALEM - VALENCIA BASKET
+SAAT= 20:30
+KANAL= TRT SPOR YILDIZ
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= SKORBORD
+SAAT= 20:30
+KANAL= A SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= MAÇ ANI
+SAAT= 20:30
+KANAL= TIVIBU SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= MAÇ HAVASI
+SAAT= 20:30
+KANAL= FB TV
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= FENERBAHÇE BEKO - BASKONIA
 SAAT= 20:45
-KANAL= S-SPORT+2 MAC SAATI
+KANAL= S SPORT 2
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= EFSANE 11: TÜMER METIN
@@ -398,10 +493,20 @@ SAAT= 21:00
 KANAL= TRT SPOR ARŞIV
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
+MAÇ ADI= BEIN BASKET MAÇ SONU
+SAAT= 21:00
+KANAL= BEIN SPORTS 5
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
 MAÇ ADI= DEVRE ARASI
 SAAT= 21:15
 KANAL= A SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= ENGADIN
+SAAT= 21:20
+KANAL= EUROSPORT 2
+LOGO URL= Bulunamadı
 
 MAÇ ADI= SEPSI - HERMANNSTADT
 SAAT= 21:30
@@ -413,35 +518,35 @@ SAAT= 21:30
 KANAL= A SPOR
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
-MAÇ ADI= TOULOUSE - CESSON RENNES
+MAÇ ADI= ALBA BERLIN - VIRTUS BOLOGNA
 SAAT= 22:00
-KANAL= BEIN SPORTS BEIN CONNECT
-LOGO URL= Bulunamadı
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= ALBA BERLIN - VIRTUS BOLOGNA
+SAAT= 22:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= KIZILYILDIZ - REAL MADRID
+SAAT= 22:00
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+
+MAÇ ADI= KIZILYILDIZ - REAL MADRID
+SAAT= 22:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
 MAÇ ADI= EXCELSIOR - JONG UTRECHT
 SAAT= 22:00
 KANAL= NBA TV
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
-MAÇ ADI= ALBA BERLIN - VIRTUS BOLOGNA
+MAÇ ADI= TOULOUSE - CESSON RENNES
 SAAT= 22:00
-KANAL= S-SPORT+1 MAC SAATI
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= ALBA BERLIN - VIRTUS BOLOGNA
-SAAT= 22:00
-KANAL= S-SPORT+2 MAC SAATI
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= KIZILYILDIZ - REAL MADRID
-SAAT= 22:00
-KANAL= S-SPORT+1 MAC SAATI
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
-
-MAÇ ADI= KIZILYILDIZ - REAL MADRID
-SAAT= 22:00
-KANAL= S-SPORT+2 MAC SAATI
-LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
+KANAL= BEIN SPORTS BEIN CONNECT
+LOGO URL= Bulunamadı
 
 MAÇ ADI= PANATHINAIKOS - PARIS
 SAAT= 22:15
@@ -453,19 +558,9 @@ SAAT= 22:15
 KANAL= S-SPORT+2 MAC SAATI
 LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png
 
-MAÇ ADI= STADYUM
-SAAT= 22:30
-KANAL= TRT SPOR
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
-
-MAÇ ADI= 90+1
-SAAT= 22:30
-KANAL= A SPOR
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
-
-MAÇ ADI= SON KARAR
-SAAT= 22:30
-KANAL= TV 8 BUÇUK
+MAÇ ADI= SKOR
+SAAT= 22:15
+KANAL= BEIN SPORTS HABER
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= BAYER LEVERKUSEN - BOCHUM
@@ -473,9 +568,39 @@ SAAT= 22:30
 KANAL= BEIN SPORTS 3
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
+MAÇ ADI= EUROLEAGUE MAÇIN ARDINDAN
+SAAT= 22:30
+KANAL= S SPORT
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= 90+1
+SAAT= 22:30
+KANAL= A SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= STADYUM
+SAAT= 22:30
+KANAL= TRT SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
 MAÇ ADI= ORTA NOKTA
 SAAT= 22:30
 KANAL= TIVIBU SPOR
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= SON KARAR
+SAAT= 22:30
+KANAL= TV 8 BUÇUK
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= BEIN SÜPER LIG MAÇ SONU
+SAAT= 22:30
+KANAL= BEIN SPORTS 1
+LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
+
+MAÇ ADI= MAÇIN ARDINDAN
+SAAT= 22:30
+KANAL= FB TV
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= STRASBOURG - LYON
@@ -483,28 +608,8 @@ SAAT= 22:45
 KANAL= BEIN SPORTS 4
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
-MAÇ ADI= EUROLEAGUE MAÇIN ARDINDAN
-SAAT= 22:45
-KANAL= S-SPORT+1 MAC SAATI
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
-
-MAÇ ADI= EUROLEAGUE MAÇIN ARDINDAN
-SAAT= 22:45
-KANAL= S-SPORT+2 MAC SAATI
-LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
-
 MAÇ ADI= LEUVEN - CHARLEROI
 SAAT= 22:45
-KANAL= NBA TV
-LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
-
-MAÇ ADI= ATHLETIC BILBAO - OSASUNA
-SAAT= 23:00
-KANAL= S SPORT
-LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
-
-MAÇ ADI= DF. JUSTICIA - CA TIGRE
-SAAT= 23:00
 KANAL= NBA TV
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
@@ -515,8 +620,18 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= SHEFFIELD UTD - COVENTRY
 SAAT= 23:00
+KANAL= EXXEN
+LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+
+MAÇ ADI= DF. JUSTICIA - CA TIGRE
+SAAT= 23:00
 KANAL= NBA TV
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
+
+MAÇ ADI= GÜN 2
+SAAT= 23:10
+KANAL= EUROSPORT 2
+LOGO URL= Bulunamadı
 
 MAÇ ADI= GIL VICENTE - BENFICA
 SAAT= 23:15
