@@ -41,7 +41,7 @@ for base_url in urls:
             channel = "TRT 1"
         if channel == "SİNEMA YERLİ":
             channel = "SINEMA YERLI 1"
-        if channel == "NATIONAL GEORAPHIC WILD":
+        if channel == "NATIONAL GEOGRAPHIC WILD":
             channel = "NAT GEO WILD"
         if channel == "CNN TÜRK":
             channel = "CNN TURK"
