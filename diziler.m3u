@@ -3,22 +3,22 @@
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:15 - 02:45 EŞREF RÜYA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/387232860/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:15 - 02:45 EŞREF RÜYA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/387232860/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:15 - 02:45 BAHAR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2395422638/index.m3u8
+https://vavoo.to/play/231583905/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:15 - 02:45 BAHAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2485009235/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:15 - 02:45 BAHAR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="STAR TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:15 - 02:40 KRAL KAYBEDERSE
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -33,12 +33,12 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:20 - 03:30 BAŞKA BIR GÜN
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1255594337/index.m3u8
+https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:20 - 03:30 BAŞKA BIR GÜN
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/455930425/index.m3u8
+https://vavoo.to/play/1255594337/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 00:55 - 03:25 TEŞKILAT
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -68,24 +68,19 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 02:45 - 03:45 ÇATI KATI AŞK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/387232860/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 02:45 - 03:45 ÇATI KATI AŞK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/387232860/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 02:45 - 04:45 SIYAH KALP
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2395422638/index.m3u8
+https://vavoo.to/play/231583905/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 02:45 - 04:45 SIYAH KALP
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2485009235/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 04:45 - 08:00 KIZILCIK ŞERBETI
+#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 02:45 - 04:45 SIYAH KALP
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2395422638/index.m3u8
@@ -94,6 +89,11 @@ https://vavoo.to/play/2395422638/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2485009235/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 04:45 - 08:00 KIZILCIK ŞERBETI
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="STAR TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 05:40 - 07:00 KIRALIK AŞK
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -118,12 +118,12 @@ https://vavoo.to/play/2041026135/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 06:30 - 07:30 ZEMBILLI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1255594337/index.m3u8
+https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 06:30 - 07:30 ZEMBILLI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/455930425/index.m3u8
+https://vavoo.to/play/1255594337/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NOW TV HD" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 06:30 - 08:30 KEFARET
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -133,12 +133,12 @@ https://vavoo.to/play/161305206/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 07:00 - 08:30 KAVAK YELLERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/387232860/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 07:00 - 08:30 KAVAK YELLERI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/387232860/index.m3u8
+https://vavoo.to/play/231583905/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="STAR TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 07:00 - 09:00 İKI AILE
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -149,17 +149,17 @@ https://vavoo.to/play/863472446/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/699305923/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 08:00 - 10:00 BAHAR
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 08:00 - 10:00 BAHAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2485009235/index.m3u8
 
+#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 08:00 - 10:00 BAHAR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2395422638/index.m3u8
+
 #EXTINF:-1 tvg-id="None" tvg-name="STAR TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 09:00 - 11:00 SAHIPSIZLER
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -173,12 +173,12 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 10:00 - 13:00 ZEMBILLI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1255594337/index.m3u8
+https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 10:00 - 13:00 ZEMBILLI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/455930425/index.m3u8
+https://vavoo.to/play/1255594337/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="STAR TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 12:00 - 14:00 DIZI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -218,32 +218,32 @@ https://vavoo.to/play/2041026135/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:00 - 18:25 KIZILCIK ŞERBETI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2395422638/index.m3u8
+https://vavoo.to/play/2485009235/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:00 - 18:25 KIZILCIK ŞERBETI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2485009235/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:15 - 17:45 BIR GECE MASALI
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1255594337/index.m3u8
+https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:15 - 17:45 BIR GECE MASALI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/455930425/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:45 - 19:00 UZAK ŞEHIR
+#EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:15 - 17:45 BIR GECE MASALI
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/1255594337/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:45 - 19:00 UZAK ŞEHIR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/387232860/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 15:45 - 19:00 UZAK ŞEHIR
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/231583905/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NOW TV HD" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 16:00 - 19:00 KIZIL GONCALAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -263,22 +263,22 @@ https://vavoo.to/play/699305923/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 20:00 - 23:20 CAN BORCU
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1255594337/index.m3u8
+https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 20:00 - 23:20 CAN BORCU
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/455930425/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 20:00 - 23:15 EŞREF RÜYA
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/1255594337/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 20:00 - 23:15 EŞREF RÜYA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/387232860/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 20:00 - 23:15 EŞREF RÜYA
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/231583905/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="NOW TV HD" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 20:00 - 22:45 HUDUTSUZ SEVDA
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -298,10 +298,10 @@ https://vavoo.to/play/2041026135/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 23:15 - 02:00 ARKA SOKAKLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/387232860/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK TELEVİZYON AKIŞI", 23:15 - 02:00 ARKA SOKAKLAR
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/387232860/index.m3u8
+https://vavoo.to/play/231583905/index.m3u8
 
