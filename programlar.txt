@@ -76,7 +76,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= AVRUPA'NIN VAHŞI DOĞASI ÖZEL
 SAAT= 00:35
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= SAHIPSIZLER
@@ -151,7 +151,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= KRALIÇELER
 SAAT= 01:20
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= FUTBOL GECESI
@@ -216,7 +216,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= KRALIÇELER
 SAAT= 02:10
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= DAHA GÜZEL BIR HAYAT
@@ -266,7 +266,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= OKYANUSUN GIZEMLI DÜNYASI
 SAAT= 02:55
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= SON YAZ
@@ -326,7 +326,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= KIŞIN GIZLI HARIKALARI
 SAAT= 03:40
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ÜÇ İSTIKLALIN BAŞKENTI
@@ -396,7 +396,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= KIŞIN GIZLI HARIKALARI
 SAAT= 04:30
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= AVUSTRALYALI ISTAKOZ AVCILARI
@@ -456,7 +456,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= KIŞIN GIZLI HARIKALARI
 SAAT= 05:15
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= KABE VE HAC
@@ -501,7 +501,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= BALINALARIN GIZEMLI DÜNYASI
 SAAT= 06:00
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= HABER
@@ -546,7 +546,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= BATAKLIK EJDERLERININ SAVAŞI
 SAAT= 06:45
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= NEDIR, NASIL OYNANIR?
@@ -641,7 +641,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= MUHTEŞEM CANLILAR (ÖZEL BÖLÜMLER)
 SAAT= 07:30
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ATV’DE HAFTA SONU
@@ -661,7 +661,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= AFRIKA'NIN VAHŞI KRALLIĞI
 SAAT= 07:55
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= KIZILCIK ŞERBETI
@@ -731,7 +731,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= VAHŞI HINDISTAN
 SAAT= 08:45
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= HIMALAYALARIN GÖKYÜZÜ IRMAĞI
@@ -811,7 +811,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= YETENEKLI DR. POL
 SAAT= 09:30
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ALTIN ARAYANLAR
@@ -901,7 +901,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= YETENEKLI DR. POL
 SAAT= 10:20
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ALTIN ARAYANLAR
@@ -951,7 +951,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= YETENEKLI DR. POL
 SAAT= 11:10
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= AŞKIN ÇEKIMI
@@ -1001,7 +1001,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= DOĞAL HAZINELER
 SAAT= 12:00
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= HABER
@@ -1066,7 +1066,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= DOĞAL HAZINELER
 SAAT= 12:50
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= 3X3 BASKETBOL ASYA KUPASI
@@ -1136,7 +1136,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= İBERIA'NIN ORMANLARI
 SAAT= 13:40
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= 3X3 BASKETBOL ASYA KUPASI
@@ -1201,7 +1201,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= İBERIA'NIN ORMANLARI
 SAAT= 14:30
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= 3X3 BASKETBOL ASYA KUPASI
@@ -1296,7 +1296,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= YAVRULAR BÜYÜRKEN
 SAAT= 15:20
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= 3X3 BASKETBOL ASYA KUPASI
@@ -1386,7 +1386,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= YAVRULAR BÜYÜRKEN
 SAAT= 16:15
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= SEDA ÖĞRETIR İLE ZINCIRLEME REAKSIYON
@@ -1466,7 +1466,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= YAVRULAR BÜYÜRKEN
 SAAT= 17:10
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= BARCELONA - GIRONA
@@ -1551,7 +1551,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= VAHŞI, ZEKI VE TEHLIKELI
 SAAT= 18:05
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ALTIN ARAYANLAR
@@ -1596,7 +1596,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= VAHŞI, ZEKI VE TEHLIKELI
 SAAT= 19:00
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ANA HABER
@@ -1721,7 +1721,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/pos
 
 MAÇ ADI= VAHŞI, ZEKI VE TEHLIKELI
 SAAT= 20:00
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ANA HABER
@@ -1791,7 +1791,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= PHOTO ARK
 SAAT= 21:00
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= HABER BÜLTENI
@@ -1881,7 +1881,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= PHOTO ARK
 SAAT= 22:00
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= HABER BÜLTENI
@@ -1916,7 +1916,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= PHOTO ARK
 SAAT= 22:50
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= ANADOLU İNSANI
@@ -1981,7 +1981,7 @@ LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/log
 
 MAÇ ADI= PHOTO ARK
 SAAT= 23:45
-KANAL= NATIONAL GEOGRAPHIC WILD
+KANAL= NAT GEO WILD
 LOGO URL= https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png
 
 MAÇ ADI= BAL KAYMAK
