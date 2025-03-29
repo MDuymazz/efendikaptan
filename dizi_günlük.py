@@ -26,33 +26,25 @@ for base_url in urls:
         match_name = program.find('h3').text.strip().upper()
 
         # Saat bilgisi
-        time = program.find('time').text.strip()
-
-        # Saatteki aralık varsa sadece ilk kısmı al, yoksa olduğu gibi bırak
-        time = time.split(' - ')[0]  # " - " varsa ilk kısmı al
+        time_full = program.find('time').text.strip()
+        time_sort = time_full.split(' - ')[0]  # Sıralama için sadece başlangıç saati alınır
 
         # Kanal adı
         channel = program.find('span', class_='channel-detail-link').text.strip()
 
-        # "KANAL= NOW" ise "KANAL= NOW TV HD" olarak değiştir
-        if channel == "NOW":
-            channel = "NOW TV HD"
-        if channel == "TRT1":
-            channel = "TRT 1"
-        if channel == "SİNEMA YERLİ":
-            channel = "SINEMA YERLI 1"
-        if channel == "NATIONAL GEOGRAPHIC WILD":
-            channel = "NAT GEO WILD"
-        if channel == "CNN TÜRK":
-            channel = "CNN TURK"
-        if channel == "SÖZCÜ TV":
-            channel = "SZC"
-        if channel == "SİNEMA AİLE":
-            channel = "SINEMA AILE 1"
-        if channel == "SİNEMA TV":
-            channel = "SINEMA TV"
-        if channel == "HABERTÜRK":
-            channel = "HABERTURK"
+        # Kanal adı dönüşümleri
+        channel_mappings = {
+            "NOW": "NOW TV HD",
+            "TRT1": "TRT 1",
+            "SİNEMA YERLİ": "SINEMA YERLI 1",
+            "NATIONAL GEOGRAPHIC WILD": "NAT GEO WILD",
+            "CNN TÜRK": "CNN TURK",
+            "SÖZCÜ TV": "SZC",
+            "SİNEMA AİLE": "SINEMA AILE 1",
+            "SİNEMA TV": "SINEMA TV",
+            "HABERTÜRK": "HABERTURK"
+        }
+        channel = channel_mappings.get(channel, channel)
 
         # Logo URL
         logo_url = program.find('div', class_='channel-epg-link').find('img')['src']
@@ -60,7 +52,8 @@ for base_url in urls:
         # Formatlı veri oluşturma
         output = {
             "name": match_name,
-            "time": time,
+            "time": time_full,  # Orijinal saat bilgisi korunuyor
+            "time_sort": time_sort,  # Sadece sıralama için kullanılacak saat
             "channel": channel,
             "logo_url": logo_url
         }
@@ -68,7 +61,7 @@ for base_url in urls:
         results.append(output)
 
 # Saatlere göre sıralama
-results.sort(key=lambda x: datetime.strptime(x['time'], '%H:%M'))
+results.sort(key=lambda x: datetime.strptime(x['time_sort'], '%H:%M'))
 
 # Verileri programlar.txt dosyasına kaydetme
 with open("programlar.txt", "w", encoding="utf-8") as file:
