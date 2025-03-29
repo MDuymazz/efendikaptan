@@ -7,7 +7,7 @@ def read_m3u_file(m3u_file):
     i = 0
     while i < len(lines):
         line = lines[i].strip()
-        if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line:
+        if 'group-title="TURKEY"' in line or 'group-title="BELGESEL YAYINLARI"' in line:
             channel_info = {}
             parts = line.split('tvg-name="')
             if len(parts) > 1:
