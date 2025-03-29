@@ -65,7 +65,7 @@ def create_new_m3u(m3u_channels, match_details, output_file):
 
 # Dosya yolları
 m3u_file = 'vavoo.m3u'
-veri_file = 'diziler.txt'
+veri_file = 'programlar.txt'
 output_file = 'diziler.m3u'
 
 # M3U ve veri dosyalarını oku
