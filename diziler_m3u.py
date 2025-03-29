@@ -40,7 +40,9 @@ def read_veri_txt(veri_file):
                 match_info["channel"] = line.split("=")[1].strip()
             elif line.startswith("LOGO URL="):
                 match_info["logo"] = line.split("=")[1].strip()
-                matches.append(match_info)
+                # Eğer maç bilgisi tamamlanmışsa, listeye ekleyin
+                if "name" in match_info and "time" in match_info and "channel" in match_info and "logo" in match_info:
+                    matches.append(match_info)
                 match_info = {}  # Yeni maç için sıfırla
     
     return matches
