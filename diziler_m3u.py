@@ -7,7 +7,7 @@ def read_m3u_file(m3u_file):
     i = 0
     while i < len(lines):
         line = lines[i].strip()
-        if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line:
+        if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line or 'group-title="BELGESEL YAYINLARI"' in line or 'group-title="SİNEMA YAYINLARI"' in line:
             channel_info = {}
             parts = line.split('tvg-name="')
             if len(parts) > 1:
@@ -66,7 +66,7 @@ def create_new_m3u(m3u_channels, match_details, output_file):
 # Dosya yolları
 m3u_file = 'vavoo.m3u'
 veri_file = 'programlar.txt'
-output_file = 'diziler.m3u'
+output_file = 'programlar.m3u'
 
 # M3U ve veri dosyalarını oku
 m3u_channels = read_m3u_file(m3u_file)
