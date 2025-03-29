@@ -66,8 +66,14 @@ def scrape_sporekrani():
             if main_channel.upper() == "TUTTUR TV":
                 main_channel = "NBA TV"
             if main_channel.upper() == "BEIN SPORTS 1":
-                main_channel = "BEIN SPORTS 8K FEED"
-            
+                output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= BEIN SPORTS 8K FEED\nLOGO URL= {logo_url}\n\n"
+                output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= BEIN SPORTS 4K FEED\nLOGO URL= {logo_url}\n\n"
+                file.write(output1)
+                file.write(output2)
+            else:
+                output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel.upper()}\nLOGO URL= {logo_url}\n\n"
+                file.write(output)
+                
             # Eğer S SPORT PLUS varsa, iki farklı kanal şeklinde ekle
             if main_channel.upper() == "S SPORT PLUS":
                 output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= S-SPORT+1 MAC SAATI\nLOGO URL= {logo_url}\n\n"
