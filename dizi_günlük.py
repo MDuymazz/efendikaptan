@@ -39,6 +39,20 @@ for base_url in urls:
             channel = "NOW TV HD"
         if channel == "TRT1":
             channel = "TRT 1"
+        if channel == "SİNEMA YERLİ":
+            channel = "SINEMA YERLI 1"
+        if channel == "NATIONAL GEORAPHIC WILD":
+            channel = "NAT GEO WILD"
+        if channel == "CNN TÜRK":
+            channel = "CNN TURK"
+        if channel == "SÖZCÜ TV":
+            channel = "SZC"
+        if channel == "SİNEMA AİLE":
+            channel = "SINEMA AILE 1"
+        if channel == "SİNEMA TV":
+            channel = "SINEMA TV"
+        if channel == "HABERTÜRK":
+            channel = "HABERTURK"
 
         # Logo URL
         logo_url = program.find('div', class_='channel-epg-link').find('img')['src']
