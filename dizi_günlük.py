@@ -28,6 +28,9 @@ for base_url in urls:
         # Saat bilgisi
         time = program.find('time').text.strip()
 
+        # Saatteki aralık varsa sadece ilk kısmı al, yoksa olduğu gibi bırak
+        time = time.split(' - ')[0]  # " - " varsa ilk kısmı al
+
         # Kanal adı
         channel = program.find('span', class_='channel-detail-link').text.strip()
 
