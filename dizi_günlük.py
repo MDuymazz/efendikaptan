@@ -60,7 +60,7 @@ results.sort(key=lambda x: datetime.strptime(x['time'], '%H:%M'))
 with open("programlar.txt", "w", encoding="utf-8") as file:
     for result in results:
         output = f"""
-MAC ADI= {result['name']}
+MAÇ ADI= {result['name']}
 SAAT= {result['time']}
 KANAL= {result['channel']}
 LOGO URL= {result['logo_url']}
