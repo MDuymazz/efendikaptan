@@ -37,7 +37,7 @@ jobs:
         if git diff --quiet; then
           echo "No changes detected. Skipping commit."
         else
-          git add diziler.txt
+          git add programlar.txt
           git commit -m "Otomatik olarak güncellenmiş dizi listesi"
           git push
         fi
