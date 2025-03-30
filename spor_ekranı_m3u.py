@@ -1,24 +1,3 @@
-# M3U dosyasındaki verileri oku (group-title="TURKEY" ve group-title="SPOR YAYINLARI" olanları al)
-def read_m3u_file(m3u_file):
-    channels = []
-    with open(m3u_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-        channel_info = {}
-        url = ""
-        for line in lines:
-            if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line:  # İki group-title'ı kontrol et
-                # Kanal adı ve diğer bilgileri al
-                parts = line.split("tvg-name=")
-                channel_info["name"] = parts[1].split('"')[1]  # Kanal adı
-                # URL'nin bulunduğu satır, her zaman 4. satırda (sonuncu satır)
-                url = lines[lines.index(line) + 3].strip()  # Stream URL
-                channel_info["url"] = url
-                channel_info["group_title"] = "GÜNLÜK SPOR AKIŞI"  # group-title her zaman SPOR EKRANI olacak
-                channels.append(channel_info)
-                channel_info = {}
-        return channels
-
-
 # Veri dosyasındaki maç bilgilerini oku (TÜM maçları al)
 def read_veri_txt(veri_file):
     matches = []
@@ -38,7 +17,6 @@ def read_veri_txt(veri_file):
                 match_info = {}  # Yeni maç için sıfırla
     return matches
 
-
 # Yeni M3U dosyasını oluştur
 def create_new_m3u(m3u_channels, match_details, output_file):
     # Saat bilgisine göre sıralama yap
@@ -53,7 +31,12 @@ def create_new_m3u(m3u_channels, match_details, output_file):
         for match in match_details_sorted:
             for channel in m3u_channels:
                 # Kanal adı tam eşleşme ile kontrol ediliyor
-                if match["channel"] == channel["name"] and channel["name"] not in written_channels:
+                # Küçük harfe dönüştürme, ekstra boşlukları temizleme ve özel karakterleri dikkate alalım
+                match_channel_cleaned = match["channel"].strip().lower()
+                m3u_channel_cleaned = channel["name"].strip().lower()
+
+                # Eşleşen kanalı bulma
+                if match_channel_cleaned == m3u_channel_cleaned and channel["name"] not in written_channels:
                     # Kanal ismini written_channels set'ine ekleyerek tekrar yazılmasını engelliyoruz
                     written_channels.add(channel["name"])
 
@@ -64,7 +47,6 @@ def create_new_m3u(m3u_channels, match_details, output_file):
                     f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
                     f.write(f'{channel["url"]}\n')
                     f.write("\n")
-
 
 # Dosya yolları
 m3u_file = 'vavoo.m3u'
