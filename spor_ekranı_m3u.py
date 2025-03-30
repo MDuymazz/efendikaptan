@@ -19,27 +19,22 @@ def read_m3u_file(m3u_file):
         return channels
 
 
-# Veri dosyasındaki maç bilgilerini oku (TÜM maçları al)
+# Veri dosyasındaki maç bilgilerini oku (4'lü grup halinde)
 def read_veri_txt(veri_file):
     matches = []
     match_info = {}
     with open(veri_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-        for line in lines:
-            if "MAÇ ADI=" in line:
-                match_info["name"] = line.split("=")[1].strip()
-            elif "SAAT=" in line:
-                match_info["time"] = line.split("=")[1].strip()
-            elif "KANAL=" in line:
-                # Eğer kanal zaten varsa, onu listeye ekleyelim
-                if "channels" not in match_info:
-                    match_info["channels"] = []
-                match_info["channels"].append(line.split("=")[1].strip())  # Kanal adı
-            elif "LOGO URL=" in line:
-                match_info["logo"] = line.split("=")[1].strip()
-                # Maç verisini kaydet, kanal bilgilerini de liste olarak ekleyelim
+        for i in range(0, len(lines), 4):  # 4'er 4'er oku
+            try:
+                match_info["name"] = lines[i].split("=")[1].strip()  # MAÇ ADI
+                match_info["time"] = lines[i+1].split("=")[1].strip()  # SAAT
+                match_info["channels"] = [lines[i+2].split("=")[1].strip()]  # KANAL
+                match_info["logo"] = lines[i+3].split("=")[1].strip()  # LOGO URL
                 matches.append(match_info)
                 match_info = {}  # Yeni maç için sıfırla
+            except IndexError:
+                continue  # Eğer 4 satırdan eksik veri varsa, geç
     return matches
 
 
