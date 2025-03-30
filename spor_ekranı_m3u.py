@@ -88,6 +88,15 @@ output_file = 'new_m3u.m3u'
 m3u_channels = read_m3u_file(m3u_file)
 match_details = read_veri_txt(veri_file)
 
+# Kanal adlarını yazdır
+print("M3U Kanal Adları:")
+for channel in m3u_channels:
+    print(channel["name"])
+
+print("\nVeri Dosyasındaki Kanal Adları:")
+for match in match_details:
+    print(match["channels"][0])
+
 # Yeni M3U dosyasını oluştur
 create_new_m3u(m3u_channels, match_details, output_file)
 
