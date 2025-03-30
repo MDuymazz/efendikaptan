@@ -47,10 +47,16 @@ def create_new_m3u(m3u_channels, match_details, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")  # Dosyanın en başına #EXTM3U ekleniyor
         
+        # Kanal başına yalnızca bir kez yazma
+        written_channels = set()
+
         for match in match_details_sorted:
             for channel in m3u_channels:
                 # Kanal adı tam eşleşme ile kontrol ediliyor
-                if match["channel"] == channel["name"]:
+                if match["channel"] == channel["name"] and channel["name"] not in written_channels:
+                    # Kanal ismini written_channels set'ine ekleyerek tekrar yazılmasını engelliyoruz
+                    written_channels.add(channel["name"])
+
                     # Yeni M3U formatında yaz: "00:00 NAME (CHANNEL)"
                     f.write(f'#EXTINF:-1 tvg-id="None" tvg-name="{channel["name"]}" tvg-logo="{match["logo"]}" '
                             f'group-title="{channel["group_title"]}", {match["time"]} {match["name"]} ({match["channel"]})\n')
