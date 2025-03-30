@@ -4,12 +4,13 @@ def read_m3u_file(m3u_file):
     with open(m3u_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
         channel_info = {}
-        url = ""
         for line in lines:
             if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line:  # İki group-title'ı kontrol et
                 # Kanal adı ve diğer bilgileri al
-                parts = line.split("tvg-name=")
-                channel_info["name"] = parts[1].split('"')[1]  # Kanal adı
+                parts = line.split('tvg-name="')
+                if len(parts) > 1:
+                    channel_info["name"] = parts[1].split('"')[0]  # Kanal adı (tvg-name içindeki isim)
+                
                 # URL'nin bulunduğu satır, her zaman 4. satırda (sonuncu satır)
                 url = lines[lines.index(line) + 3].strip()  # Stream URL
                 channel_info["url"] = url
@@ -40,7 +41,6 @@ def read_veri_txt(veri_file):
 
 # Yeni M3U dosyasını oluştur
 def create_new_m3u(m3u_channels, match_details, output_file):
-    # Saat bilgisine göre sıralama yap
     match_details_sorted = sorted(match_details, key=lambda x: x["time"])  # Saat bilgisine göre sıralama
 
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -53,9 +53,9 @@ def create_new_m3u(m3u_channels, match_details, output_file):
             match_found = False  # Bu maç için eşleşen kanal bulup bulmadığımızı takip etmek için
             for channel in m3u_channels:
                 for match_channel in match["channels"]:  # Bir maç birden fazla kanala sahip olabilir
-                    # Kanal adı tam eşleşme ile kontrol ediliyor
-                    match_channel_cleaned = match_channel.strip().lower()
-                    m3u_channel_cleaned = channel["name"].strip().lower()
+                    # Kanal adı temizleme: Boşlukları baştan ve sondan temizle
+                    match_channel_cleaned = match_channel.strip()  # .strip() kullanarak boşlukları temizle
+                    m3u_channel_cleaned = channel["name"].strip()  # M3U kanal adındaki boşlukları temizle
 
                     # Eşleşen kanalı bulma
                     if match_channel_cleaned == m3u_channel_cleaned and channel["name"] not in written_channels:
