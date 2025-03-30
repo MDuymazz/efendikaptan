@@ -65,6 +65,10 @@ def scrape_sporekrani():
             # Özel kanal dönüşümleri
             if main_channel.upper() == "TUTTUR TV": 
                 main_channel = "NBA TV"
+            if main_channel.upper() == "HT SPOR": 
+                main_channel = "HT SPOR HD"
+            if main_channel.upper() == "EUROSPORT": 
+                main_channel = "EUROSPORT 1"                
             if main_channel.upper() == "TV 8 BUÇUK":
                 main_channel = "TV 8.5"
             if main_channel.upper() == "BEIN SPORTS 1":
