@@ -1,142 +1,137 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="None" tvg-name="NTV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160628/001300/001300000008479163/0fba7796-32d8-401e-a6e4-b975f081c725.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 00:15 HABER BÜLTENI (NTV)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 ORLANDO MAGIC - SACRAMENTO KINGS (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3164514696/index.m3u8
+https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TARIH TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202209/20220906/58/20220906140825519dgx_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 00:30 MAVI KUBBENIN İNCILERI (TARIH TV)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 ORLANDO MAGIC - SACRAMENTO KINGS (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3856957052/index.m3u8
+https://vavoo.to/play/2314183566/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="HABERTURK" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479171/d5a426d7-c317-4872-896f-f4a88ceb890c.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 00:30 HABER BÜLTENI (HABERTURK)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2402772380/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="VIASAT EXPLORE" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220125/14/20220125092718511tdx_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 00:55 DOĞU LIMANI KAHRAMANLARI (VIASAT EXPLORE)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1785479914/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT HABER" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479195/05852430-0c9c-455d-ace1-cc3b16e203da.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 01:00 HABER 24 (TRT HABER)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1890976041/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SINEMA YERLI 1" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202002/20200203/20200203234951578bkz_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 01:45 SIR-AYET 2 (SINEMA YERLI 1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2484805699/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A HABER" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526514/e815ff70-dcad-419b-a01d-7643db080bed.png" group-title="GÜNLÜK SPOR AKIŞI", 00:00 - 02:15 GECE AJANSI (A HABER)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1596095882/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211203/39/202112031039066553c6_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:15 - 00:30 YAPABILIR MISIN? (TRT SPOR YILDIZ)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2081577417/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="GÜNLÜK SPOR AKIŞI", 00:15 - 01:40 VEFA SULTAN (TRT 1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2041026135/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160121/001300/001300000000003512295/84a28c56-a416-4c17-92fe-b8e75fa85804.png" group-title="GÜNLÜK SPOR AKIŞI", 00:15 - 02:00 TAKIM OYUNU (A SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 00:15 TAKIM OYUNU GECE (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1561958971/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="SHOW TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="GÜNLÜK SPOR AKIŞI", 00:15 - 02:30 ŞABANIYE (SHOW TV)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2485009235/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SZC" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202302/20230214/6/202302141144052107df_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:30 - 01:00 S RAPORU (SZC)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2036794972/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220110/78/20220110135426898oyk_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:30 - 01:30 TEKNIK ANALIZ (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 00:30 TEKNIK ANALIZ (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2781429267/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="NOW TV HD" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202502/20250213/80/1009529751935eb9b42e_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:30 - 03:00 ŞAHANE HAYATIM (NOW TV HD)
+#EXTINF:-1 tvg-id="None" tvg-name="NBA TV" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 02:00 WASHINGTON WIZARDS - BROOKLYN NETS (NBA TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/161305206/index.m3u8
+https://vavoo.to/play/2430655089/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240903/91/0637039002915eb8f42a_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 00:45 - 01:00 ÖZETLER (S SPORT 2)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1234604880/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="STAR TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="GÜNLÜK SPOR AKIŞI", 00:45 - 03:00 SAHIPSIZLER (STAR TV)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/699305923/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SINEMA AILE 1" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202001/20200127/20200127164535159uuh_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 01:00 - 01:37 ORMAN DOSTLARI (SINEMA AILE 1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/4245508443/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240903/75/0634487408245eb9b42e_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 01:00 - 02:00 SUPER CARS (S SPORT)
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 03:00 MEMPHIS GRIZZLIES - LA LAKERS (S SPORT)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3346549722/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="CNN TURK" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008479090/2bc3b2ae-9d09-4380-bc32-3e6affca7626.png" group-title="GÜNLÜK SPOR AKIŞI", 01:00 - 02:00 GECE HABERLERI (CNN TURK)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="Bulunamadı" group-title="GÜNLÜK SPOR AKIŞI", 03:00 ERKEKLER SERBEST PROGRAM (TRT SPOR YILDIZ)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3278683973/index.m3u8
+https://vavoo.to/play/2081577417/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT 2" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190221/001300/XTV100001019/73220b58-a545-4242-8904-a14f3c04a661.png" group-title="GÜNLÜK SPOR AKIŞI", 01:15 - 03:15 BÜYÜK GELEN PALTO (TRT 2)
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 03:45 ALABAMA - DUKE (S SPORT 2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1040706695/index.m3u8
+https://vavoo.to/play/1234604880/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="SINEMA TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202002/20200203/20200203234455583qbu_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 01:45 - 03:30 ÇIFT KÖR (SINEMA TV)
+#EXTINF:-1 tvg-id="None" tvg-name="HT SPOR HD" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 08:00 HTSPOR HAFTA SONU (HT SPOR HD)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1617719941/index.m3u8
+https://vavoo.to/play/2773338492/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="ATV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="GÜNLÜK SPOR AKIŞI", 01:50 - 05:00 BIR GECE MASALI (ATV)
+#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png" group-title="GÜNLÜK SPOR AKIŞI", 09:55 SHA TIN (TJK TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/455930425/index.m3u8
+https://vavoo.to/play/2322888064/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="KANAL D" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="GÜNLÜK SPOR AKIŞI", 02:00 - 04:00 YARGI (KANAL D)
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 2" tvg-logo="https://e7.pngegg.com/pngimages/759/940/png-clipart-cross-country-skiing-snowboarding-alpine-skiing-skiing-angle-sport-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 10:20 İSVIÇRE (EUROSPORT 2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/231583905/index.m3u8
+https://vavoo.to/play/2307325429/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="BEYAZ TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20150203/001300/001300000008479064/48e2f21e-2c71-4a63-8b1f-3d105ce57dec.png" group-title="GÜNLÜK SPOR AKIŞI", 04:00 - 05:45 TEMIZLIKÇI (BEYAZ TV)
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="Bulunamadı" group-title="GÜNLÜK SPOR AKIŞI", 11:15 ERKEKLER TAKIM (EUROSPORT 1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/275850888/index.m3u8
+https://vavoo.to/play/3271328843/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="KANAL 7" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008478886/e86bfc54-f774-45c5-ae9d-531af97840a6.png" group-title="GÜNLÜK SPOR AKIŞI", 06:30 - 07:45 KANAL 7'DE SABAH (KANAL 7)
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 13:00 FENERBAHÇE BEKO - MERSIN SPOR (BEIN SPORTS 5)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3015649982/index.m3u8
+https://vavoo.to/play/3831757618/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="FB TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" group-title="GÜNLÜK SPOR AKIŞI", 07:00 - 07:45 GÜNCEL (FB TV)
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 3" tvg-logo="https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg" group-title="GÜNLÜK SPOR AKIŞI", 14:30 GREUTHER FÜRTH - SCHALKE 04 (BEIN SPORTS 3)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2834514943/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2" tvg-logo="https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg" group-title="GÜNLÜK SPOR AKIŞI", 14:30 PREUSSEN MÜNSTER - BRAUNSCHWEIG (BEIN SPORTS 2)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1447241506/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg" group-title="GÜNLÜK SPOR AKIŞI", 14:30 JAHN REGENSBURG - NÜRNBERG (BEIN SPORTS MAX 1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2832430535/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 BEIN GARAJ (BEIN SPORTS HABER)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2806079612/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS MAX 2" tvg-logo="Bulunamadı" group-title="GÜNLÜK SPOR AKIŞI", 15:00 COPPA SHELL A&M YARIŞ 2 (BEIN SPORTS MAX 2)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4017295127/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TV 8.5" tvg-logo="https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg" group-title="GÜNLÜK SPOR AKIŞI", 15:30 PSV - AJAX (TV 8.5)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/14092376/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 4" tvg-logo="https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg" group-title="GÜNLÜK SPOR AKIŞI", 16:00 TOULOUSE - BREST (BEIN SPORTS 4)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/450076655/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 4" tvg-logo="Bulunamadı" group-title="GÜNLÜK SPOR AKIŞI", 16:30 BLAST OPEN SPRING (TIVIBU SPOR 4)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1343303170/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART" tvg-logo="https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png" group-title="GÜNLÜK SPOR AKIŞI", 18:00 REAL MADRID - BILBAO BASKET (SPOR SMART)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1771511397/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="GS TV" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 19:05 GS TV ANA HABER (GS TV)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4240429325/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="FB TV" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 19:07 FB TV ANA HABER (FB TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1540748539/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="SPORTS TV" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202102/20210225/1/20210225220257171kgn_op_0_XL.png" group-title="GÜNLÜK SPOR AKIŞI", 09:00 - 09:20 DINAMIK SABAHLAR (SPORTS TV)
+#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="Bulunamadı" group-title="GÜNLÜK SPOR AKIŞI", 22:00 ABD GP (TIVIBU SPOR 1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3422827985/index.m3u8
+https://vavoo.to/play/1528949791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="A PARA" tvg-logo="https://gbzeottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180908/001300/XTV100000934/13a1fb9e-959c-447d-98eb-01bc56a4e6be.png" group-title="GÜNLÜK SPOR AKIŞI", 10:00 - 10:55 AKILDA KALANLAR (A PARA)
+#EXTINF:-1 tvg-id="None" tvg-name="TVNET" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 4X4 FUTBOL (TVNET)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2318923445/index.m3u8
+https://vavoo.to/play/1221661755/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="BEYAZ TV" tvg-logo="https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg" group-title="GÜNLÜK SPOR AKIŞI", 23:30 BEYAZ FUTBOL (BEYAZ TV)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/275850888/index.m3u8
 
