@@ -67,6 +67,10 @@ def scrape_sporekrani():
                 main_channel = "NBA TV"
             if main_channel.upper() == "HT SPOR": 
                 main_channel = "HT SPOR HD"
+            if main_channel.upper() == "TABII SPOR": 
+                main_channel = "TABII SPOR 1 720P"
+            if main_channel.upper() == "TV100": 
+                main_channel = "4K TR: TV100"
             if main_channel.upper() == "EUROSPORT": 
                 main_channel = "EUROSPORT 1"                
             if main_channel.upper() == "TV 8 BUÇUK":
@@ -74,12 +78,15 @@ def scrape_sporekrani():
             if main_channel.upper() == "BEIN SPORTS 1":
                 main_channel_1 = "BEIN SPORTS 8K FEED"
                 main_channel_2 = "BEIN SPORTS 4K FEED"
+                main_channel_3 = "BEIN SPORTS 1 H265"
                 # İlk kanal çıktısı
                 output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_1.upper()}\nLOGO URL= {logo_url}\n\n"
                 # İkinci kanal çıktısı
                 output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_2.upper()}\nLOGO URL= {logo_url}\n\n"
+                output3 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_2.upper()}\nLOGO URL= {logo_url}\n\n"
                 file.write(output1)
                 file.write(output2)
+                file.write(output3)
                 continue  # Bir daha yazmaması için continue ekleniyor
             if main_channel.upper() == "S SPORT PLUS":
                 main_channel_1 = "S-SPORT+1 MAC SAATI"
