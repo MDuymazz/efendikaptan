@@ -6,7 +6,7 @@ def read_m3u_file(m3u_file):
         channel_info = {}
         url = ""
         for line in lines:
-            if 'group-title="TURKEY"' in line or 'group-title="SPOR YAYINLARI"' in line:  # İki group-title'ı kontrol et
+            if 'group-title' in line and ('TURKEY' in line or 'SPOR YAYINLARI' in line):  # Daha genel kontrol
                 # Kanal adı ve diğer bilgileri al
                 parts = line.split("tvg-name=")
                 channel_info["name"] = parts[1].split('"')[1]  # Kanal adı
@@ -16,7 +16,7 @@ def read_m3u_file(m3u_file):
                 channel_info["group_title"] = "GÜNLÜK SPOR AKIŞI"  # group-title her zaman SPOR EKRANI olacak
                 channels.append(channel_info)
                 channel_info = {}
-        return channels
+    return channels
 
 
 # Veri dosyasındaki maç bilgilerini oku (TÜM maçları al)
@@ -46,17 +46,12 @@ def create_new_m3u(m3u_channels, match_details, output_file):
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")  # Dosyanın en başına #EXTM3U ekleniyor
-        
-        # Kanal başına yalnızca bir kez yazma
-        written_channels = set()
 
+        # Her kanalın tekrar yazılmasına izin verildi
         for match in match_details_sorted:
             for channel in m3u_channels:
-                # Kanal adı tam eşleşme ile kontrol ediliyor
-                if match["channel"] == channel["name"] and channel["name"] not in written_channels:
-                    # Kanal ismini written_channels set'ine ekleyerek tekrar yazılmasını engelliyoruz
-                    written_channels.add(channel["name"])
-
+                # Kanal adı tam eşleşme ile kontrol ediliyor (Küçük harfe dönüştürülmüş eşleşme)
+                if match["channel"].lower() == channel["name"].lower():
                     # Yeni M3U formatında yaz: "00:00 NAME (CHANNEL)"
                     f.write(f'#EXTINF:-1 tvg-id="None" tvg-name="{channel["name"]}" tvg-logo="{match["logo"]}" '
                             f'group-title="{channel["group_title"]}", {match["time"]} {match["name"]} ({match["channel"]})\n')
