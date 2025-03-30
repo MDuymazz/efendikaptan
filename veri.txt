@@ -350,7 +350,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= PRESTON - ASTON VILLA
 SAAT= 15:30
-KANAL= TABII SPOR
+KANAL= TABII SPOR 1 720P
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= DONCASTER
@@ -510,7 +510,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= BOURNEMOUTH - MANCHESTER CITY
 SAAT= 18:30
-KANAL= TABII SPOR
+KANAL= TABII SPOR 1 720P
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= KADINLAR
@@ -710,7 +710,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= ERSIN DÜZEN İLE FUTBOLUN 100'Ü
 SAAT= 23:30
-KANAL= TV100
+KANAL= 4K TR: TV100
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= BEYAZ FUTBOL
