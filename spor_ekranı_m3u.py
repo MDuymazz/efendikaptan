@@ -55,6 +55,7 @@ def create_new_m3u(m3u_channels, match_details, output_file):
         written_channels = set()
 
         for match in match_details_sorted:
+            match_found = False  # Bu maç için eşleşen kanal bulup bulmadığımızı takip etmek için
             for channel in m3u_channels:
                 for match_channel in match["channels"]:  # Bir maç birden fazla kanala sahip olabilir
                     # Kanal adı tam eşleşme ile kontrol ediliyor
@@ -74,6 +75,14 @@ def create_new_m3u(m3u_channels, match_details, output_file):
                         f.write(f'{channel["url"]}\n')
                         f.write("\n")
 
+                        # Eşleşme bulundu, bu maçı işledik
+                        match_found = True
+                        break
+                if match_found:
+                    break  # Bu maç için eşleşen kanal bulunduğu için dışarıya çıkıyoruz
+
+            if not match_found:
+                print(f"Bu maç işlenmedi: {match['name']} - {match['time']}")  # Hangi maçların işlenmediğini görmek için
 
 # Dosya yolları
 m3u_file = 'vavoo.m3u'
