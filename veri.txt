@@ -160,7 +160,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= HTSPOR HAFTA SONU
 SAAT= 08:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= UEFA ŞAMPIYONLAR LIGI
@@ -200,12 +200,12 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= SPORUN RENKLERI
 SAAT= 11:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= ERKEKLER TAKIM
 SAAT= 11:15
-KANAL= EUROSPORT
+KANAL= EUROSPORT 1
 LOGO URL= Bulunamadı
 
 MAÇ ADI= YAŞASIN HAFTA SONU
@@ -220,7 +220,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= HT SPOR MAGAZIN
 SAAT= 12:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= FENERBAHÇE BEKO - MERSIN SPOR
@@ -230,7 +230,7 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= SPORUN İÇINDEN
 SAAT= 13:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= UTRECHT - HEERENVEEN
@@ -240,7 +240,7 @@ LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_21397
 
 MAÇ ADI= ENGADIN
 SAAT= 13:20
-KANAL= EUROSPORT
+KANAL= EUROSPORT 1
 LOGO URL= https://e7.pngegg.com/pngimages/759/940/png-clipart-cross-country-skiing-snowboarding-alpine-skiing-skiing-angle-sport-thumbnail.png
 
 MAÇ ADI= CAGLIARI - MONZA
@@ -265,7 +265,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= İLK 5
 SAAT= 14:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= ETAP 7
@@ -380,7 +380,7 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= HER LIG
 SAAT= 16:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= BAYERN MÜNIH - BAYER LEVERKUSEN
@@ -430,7 +430,7 @@ LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_21397
 
 MAÇ ADI= YARIŞ 2
 SAAT= 17:15
-KANAL= EUROSPORT
+KANAL= EUROSPORT 1
 LOGO URL= Bulunamadı
 
 MAÇ ADI= COPPA SHELL YARIŞ 2
@@ -475,7 +475,7 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= HTSPOR ANA HABER
 SAAT= 18:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= ANGERS - RENNES
@@ -615,7 +615,7 @@ LOGO URL= Bulunamadı
 
 MAÇ ADI= OYUNUN İÇINDEN
 SAAT= 21:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= TENESSEE - HOUSTON COUGARS
@@ -685,7 +685,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= MEXICO CITY
 SAAT= 22:00
-KANAL= EUROSPORT
+KANAL= EUROSPORT 1
 LOGO URL= https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png
 
 MAÇ ADI= CLEVELAND CAVALIERS - LA CLIPPERS
@@ -705,7 +705,7 @@ LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0P
 
 MAÇ ADI= GECE YARISI
 SAAT= 23:00
-KANAL= HT SPOR
+KANAL= HT SPOR HD
 LOGO URL= https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg
 
 MAÇ ADI= ERSIN DÜZEN İLE FUTBOLUN 100'Ü
