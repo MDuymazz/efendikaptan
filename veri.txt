@@ -340,7 +340,7 @@ LOGO URL= https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-b
 
 MAÇ ADI= PSV - AJAX
 SAAT= 15:30
-KANAL= TV 8 BUÇUK
+KANAL= TV 8.5
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= SPOR BÜLTENI
@@ -445,7 +445,7 @@ LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_21397
 
 MAÇ ADI= FEYENOORD - G.A. EAGLES
 SAAT= 17:45
-KANAL= TV 8 BUÇUK
+KANAL= TV 8.5
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= REAL MADRID - BILBAO BASKET
@@ -580,7 +580,7 @@ LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_21397
 
 MAÇ ADI= GENK - KAA GENT
 SAAT= 19:30
-KANAL= TV 8 BUÇUK
+KANAL= TV 8.5
 LOGO URL= https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg
 
 MAÇ ADI= ESTORIL - PORTO
