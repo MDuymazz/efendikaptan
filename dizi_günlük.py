@@ -24,7 +24,7 @@ channel_mappings = {
     "SİNEMA AİLE": "SINEMA AILE 1",
     "SİNEMA TV": "SINEMA TV",
     "HABERTÜRK": "HABERTURK",
-    "tabii spor": "TABII SPOR 1 720P"
+    "tabii spor": "TABII SPOR HD"
 }
 
 # Türkçe ay adlarını İngilizce'ye dönüştürme
