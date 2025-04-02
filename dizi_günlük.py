@@ -60,6 +60,11 @@ for base_url, title in type_mappings.items():
                 time_full = program.find('span', class_='start-time').text.strip()
                 time_sort = f"{date_text} {time_full}"  # Tarih ve saat birlikte sıralama için kullanılır
                 match_name = program.find('a', class_='match-name').find('span').text.strip().upper()
+                # Broadcast türünü al
+                broadcast_type = program.find('i', class_='match-broadcast-type')
+                if broadcast_type:
+                    broadcast_text = broadcast_type.text.strip()
+                    match_name = f"{match_name}({broadcast_text.upper()})"
                 channel_element = program.find_all('a')[-1]
                 channel = channel_element.get('title', '').replace(' İzle', '').strip()
                 channel = channel_mappings.get(channel, channel)  # Kanal adı dönüşümü
