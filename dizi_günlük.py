@@ -25,7 +25,22 @@ channel_mappings = {
     "SİNEMA TV": "SINEMA TV",
     "HABERTÜRK": "HABERTURK",
     "tabii spor": "TABII SPOR 1 720P"
+}
 
+# Türkçe ay adlarını İngilizce'ye dönüştürme
+month_translation = {
+    "OCAK": "January",
+    "ŞUBAT": "February",
+    "MART": "March",
+    "NISAN": "April",
+    "MAYIS": "May",
+    "HAZIRAN": "June",
+    "TEMMUZ": "July",
+    "AGUSTOS": "August",
+    "EYLUL": "September",
+    "EKIM": "October",
+    "KASIM": "November",
+    "ARALIK": "December"
 }
 
 # Sonuçları saklamak için sözlük
@@ -43,7 +58,7 @@ for base_url, title in type_mappings.items():
             program_listesi = day.find_all('li', class_='fixture-day-list-item')
             for program in program_listesi:
                 time_full = program.find('span', class_='start-time').text.strip()
-                time_sort = time_full
+                time_sort = f"{date_text} {time_full}"  # Tarih ve saat birlikte sıralama için kullanılır
                 match_name = program.find('a', class_='match-name').find('span').text.strip().upper()
                 channel_element = program.find_all('a')[-1]
                 channel = channel_element.get('title', '').replace(' İzle', '').strip()
@@ -81,9 +96,21 @@ with open("programlar.txt", "w", encoding="utf-8") as file:
     for category, programs in type_results.items():
         file.write(f"\nTUR= {category}\n")
         if programs:
-            programs.sort(key=lambda x: datetime.strptime(x['time_sort'], '%H:%M'))
+            # Tarih ve saat sırasına göre sıralama
+            for program in programs:
+                # Türkçe ay adlarını İngilizce'ye çevir
+                for turkish_month, english_month in month_translation.items():
+                    program['time_sort'] = program['time_sort'].replace(turkish_month, english_month)
+                
+                # Handle cases where the time is only the time (e.g., '00:45')
+                if len(program['time_sort'].split()) == 1:  # Only time present
+                    # Add a default date and month (for example, use '01 January')
+                    program['time_sort'] = f"01 January {program['time_sort']}"
+
+            # Tarih ve saat sırasına göre sıralama
+            programs.sort(key=lambda x: datetime.strptime(x['time_sort'], '%d %B %H:%M'))  # Gün, Ay, Saat: Dakika sıralaması
             for result in programs:
                 output = f"MAÇ ADI= {result['name']}\nSAAT= {result['time']}\nKANAL= {result['channel']}\nLOGO URL= {result['logo_url']}\n\n"
                 file.write(output)
 
-print("Bugünün programları saat sırasına göre programlar.txt dosyasına kaydedildi.")
+print("Bugünün programları tarih ve saat sırasına göre programlar.txt dosyasına kaydedildi.")
