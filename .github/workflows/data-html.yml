@@ -1,9 +1,6 @@
 name: Run Data Script
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
   - cron: "30 8,20 * * *"
