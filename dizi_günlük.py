@@ -13,20 +13,29 @@ type_mappings = {
     "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-haber-programlari-var": "BUGÜNÜN HABER PROGRAMLARI"
 }
 
+# Kanal adı dönüşümleri
+channel_mappings = {
+    "NOW": "NOW TV HD",
+    "TRT1": "TRT 1",
+    "SİNEMA YERLİ": "SINEMA YERLI 1",
+    "NATIONAL GEOGRAPHIC WILD": "NAT GEO WILD",
+    "CNN TÜRK": "CNN TURK",
+    "SÖZCÜ TV": "SZC",
+    "SİNEMA AİLE": "SINEMA AILE 1",
+    "SİNEMA TV": "SINEMA TV",
+    "HABERTÜRK": "HABERTURK",
+    "tabii spor": "TABII SPOR 1 720P"
+
+}
+
 # Sonuçları saklamak için sözlük
 type_results = {title: [] for title in type_mappings.values()}
-
-def parse_date(date_text, time_text):
-    try:
-        date_obj = datetime.strptime(date_text + " " + time_text, "%d %B %H:%M")
-        return date_obj.strftime("%Y-%m-%d %H:%M"), date_obj
-    except ValueError:
-        return f"{date_text} {time_text}", datetime.max
 
 for base_url, title in type_mappings.items():
     response = requests.get(base_url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
+    # Farklı HTML yapıları için uygun CSS seçicileri belirleme
     if "futbol-fiksturu" in base_url or "basketbol-fiksturu" in base_url:
         fixture_days = soup.find_all('div', class_='fixture-day')
         for day in fixture_days:
@@ -34,17 +43,18 @@ for base_url, title in type_mappings.items():
             program_listesi = day.find_all('li', class_='fixture-day-list-item')
             for program in program_listesi:
                 time_full = program.find('span', class_='start-time').text.strip()
-                time_sort, date_obj = parse_date(date_text, time_full)
+                time_sort = time_full
                 match_name = program.find('a', class_='match-name').find('span').text.strip().upper()
                 channel_element = program.find_all('a')[-1]
                 channel = channel_element.get('title', '').replace(' İzle', '').strip()
+                channel = channel_mappings.get(channel, channel)  # Kanal adı dönüşümü
                 logo_img = channel_element.find('img')
                 logo_url = logo_img['src'] if logo_img else ''
                 
                 type_results[title].append({
                     "name": match_name,
                     "time": f"{date_text} {time_full}",
-                    "time_sort": date_obj,
+                    "time_sort": time_sort,
                     "channel": channel,
                     "logo_url": logo_url
                 })
@@ -53,14 +63,15 @@ for base_url, title in type_mappings.items():
         for program in program_listesi:
             match_name = program.find('h3').text.strip().upper()
             time_full = program.find('time').text.strip()
-            time_sort, date_obj = parse_date(datetime.now().strftime("%d %B"), time_full.split(' - ')[0])
+            time_sort = time_full.split(' - ')[0]
             channel = program.find('span', class_='channel-detail-link').text.strip()
+            channel = channel_mappings.get(channel, channel)  # Kanal adı dönüşümü
             logo_url = program.find('div', class_='channel-epg-link').find('img')['src']
             
             type_results[title].append({
                 "name": match_name,
                 "time": time_full,
-                "time_sort": date_obj,
+                "time_sort": time_sort,
                 "channel": channel,
                 "logo_url": logo_url
             })
@@ -70,9 +81,9 @@ with open("programlar.txt", "w", encoding="utf-8") as file:
     for category, programs in type_results.items():
         file.write(f"\nTUR= {category}\n")
         if programs:
-            programs.sort(key=lambda x: x['time_sort'])
+            programs.sort(key=lambda x: datetime.strptime(x['time_sort'], '%H:%M'))
             for result in programs:
                 output = f"MAÇ ADI= {result['name']}\nSAAT= {result['time']}\nKANAL= {result['channel']}\nLOGO URL= {result['logo_url']}\n\n"
                 file.write(output)
 
-print("Programlar tarih ve saat sırasına göre programlar.txt dosyasına kaydedildi.")
+print("Bugünün programları saat sırasına göre programlar.txt dosyasına kaydedildi.")
