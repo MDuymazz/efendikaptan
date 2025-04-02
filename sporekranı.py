@@ -49,7 +49,7 @@ def scrape_sporekrani():
             channel_corrections = {
                 "BEIN SPORTS 5": "BEIN SPORTS 5 HD",
                 "HT SPOR": "HT SPOR HD",
-                "TABII SPOR": "TABII SPOR 1 720P",
+                "TABII SPOR": "TABII SPOR HD",
                 "TV100": "4K TR: TV100",
                 "EUROSPORT": "EUROSPORT 1",
                 "TV 8 BUÇUK": "TV 8.5"
