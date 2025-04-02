@@ -2,19 +2,19 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
 
-# Veriyi çekeceğimiz URL'ler
-urls = [
-    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-diziler-var",
-    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-filmler-var",
-    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-spor-icerikleri-var",
-    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-belgeseller-var",
-    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-haber-programlari-var"
-]
+# URL'ler ve başlık eşleşmeleri
+type_mappings = {
+    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-diziler-var": "BUGÜNÜN DİZİLERİ",
+    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-filmler-var": "BUGÜNÜN FİLMLERİ",
+    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-spor-icerikleri-var": "BUGÜNÜN SPOR İÇERİKLERİ",
+    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-belgeseller-var": "BUGÜNÜN BELGESELLERİ",
+    "https://tvplus.com.tr/canli-tv/yayin-akisi/bugun-hangi-haber-programlari-var": "BUGÜNÜN HABER PROGRAMLARI"
+}
 
-# Sonuçları saklamak için liste
-results = []
+# Sonuçları saklamak için sözlük
+type_results = {title: [] for title in type_mappings.values()}
 
-for base_url in urls:
+for base_url, title in type_mappings.items():
     response = requests.get(base_url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -58,20 +58,16 @@ for base_url in urls:
             "logo_url": logo_url
         }
 
-        results.append(output)
-
-# Saatlere göre sıralama
-results.sort(key=lambda x: datetime.strptime(x['time_sort'], '%H:%M'))
+        type_results[title].append(output)
 
 # Verileri programlar.txt dosyasına kaydetme
 with open("programlar.txt", "w", encoding="utf-8") as file:
-    for result in results:
-        output = f"""
-MAÇ ADI= {result['name']}
-SAAT= {result['time']}
-KANAL= {result['channel']}
-LOGO URL= {result['logo_url']}
-"""
-        file.write(output)
+    for category, programs in type_results.items():
+        file.write(f"\nTUR= {category}\n")
+        if programs:
+            programs.sort(key=lambda x: datetime.strptime(x['time_sort'], '%H:%M'))
+            for result in programs:
+                output = f"MAÇ ADI= {result['name']}\nSAAT= {result['time']}\nKANAL= {result['channel']}\nLOGO URL= {result['logo_url']}\n\n"
+                file.write(output)
 
 print("Bugünün programları saat sırasına göre programlar.txt dosyasına kaydedildi.")
