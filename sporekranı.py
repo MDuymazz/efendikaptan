@@ -23,20 +23,7 @@ def scrape_sporekrani():
         for event in today_events:
             # Logo URL belirleme
             logo_tag = event.select_one("img[data-src*='sports']")
-            logo_alt = logo_tag["alt"] if logo_tag else ""
-            
-            logo_map = {
-                "Programlar": "https://t4.ftcdn.net/jpg/01/57/34/25/360_F_157342588_54ZpX48MoK3mdBh0PqnwWdQnMY3KDB29.jpg",
-                "Basketbol": "https://w7.pngwing.com/pngs/37/428/png-transparent-basketball-tennis-balls-ball-sport-orange-sphere-thumbnail.png",
-                "Tenis": "https://w7.pngwing.com/pngs/392/642/png-transparent-tennis-balls-logo-ball-logo-pickup-sphere.png",
-                "Binicilik": "https://w7.pngwing.com/pngs/497/39/png-transparent-horse-equestrian-mule-track-stallion-horse-horse-child-animals.png",
-                "Futbol": "https://st4.depositphotos.com/11498520/21397/v/950/depositphotos_213977444-stock-illustration-soccer-ball-vector-football-logo.jpg",
-                "Voleybol": "https://w7.pngwing.com/pngs/743/385/png-transparent-volleyball-volleyball-sport-logo-volleyball-thumbnail.png",
-                "Alp Disiplini": "https://e7.pngegg.com/pngimages/759/940/png-clipart-cross-country-skiing-snowboarding-alpine-skiing-skiing-angle-sport-thumbnail.png",
-                "Bisiklet": "https://st3.depositphotos.com/1768926/19164/v/950/depositphotos_191646480-stock-illustration-bike-logo-icon-design-template.jpg"
-            }
-            
-            logo_url = logo_map.get(logo_alt, "Bulunamadı")
+            logo_url = logo_tag["data-src"] if logo_tag else "Bulunamadı"
             
             # Saat Bilgisi
             time_tag = event.select_one("span.text-body3-medium")
@@ -46,13 +33,9 @@ def scrape_sporekrani():
             match_name_tag = event.select_one("p.text-body3-bold")
             match_name = match_name_tag.text.strip() if match_name_tag else "Bulunamadı"
             
-            # Kanal Bilgisi: S Sport veya diğer kanallar
+            # Kanal Bilgisi
             channel_tags = event.select("img[data-src*='channels']")
-            channel_names = []
-            for channel_tag in channel_tags:
-                channel_name = channel_tag.get("title", "").strip()
-                if channel_name:  
-                    channel_names.append(channel_name)
+            channel_names = [channel_tag.get("title", "").strip() for channel_tag in channel_tags if channel_tag.get("title")]
             
             # Kanal adı 'TUTTUR TV' ise bir sonraki kanal bilgisini alalım
             for i in range(len(channel_names)):
@@ -63,44 +46,27 @@ def scrape_sporekrani():
                 main_channel = channel_names[0] if channel_names else "Bulunamadı"
             
             # Özel kanal dönüşümleri
-            if main_channel.upper() == "BEIN SPORTS 5": 
-                main_channel = "BEIN SPORTS 5 HD"
-            if main_channel.upper() == "HT SPOR": 
-                main_channel = "HT SPOR HD"
-            if main_channel.upper() == "TABII SPOR": 
-                main_channel = "TABII SPOR 1 720P"
-            if main_channel.upper() == "TV100": 
-                main_channel = "4K TR: TV100"
-            if main_channel.upper() == "EUROSPORT": 
-                main_channel = "EUROSPORT 1"                
-            if main_channel.upper() == "TV 8 BUÇUK":
-                main_channel = "TV 8.5"
-            if main_channel.upper() == "BEIN SPORTS 1":
-                main_channel_1 = "BEIN SPORTS 8K FEED"
-                main_channel_2 = "BEIN SPORTS 4K FEED"
-                main_channel_3 = "BEIN SPORTS 1 H265"
-                # İlk kanal çıktısı
-                output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_1.upper()}\nLOGO URL= {logo_url}\n\n"
-                # İkinci kanal çıktısı
-                output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_2.upper()}\nLOGO URL= {logo_url}\n\n"
-                output3 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_2.upper()}\nLOGO URL= {logo_url}\n\n"
-                file.write(output1)
-                file.write(output2)
-                file.write(output3)
-                continue  # Bir daha yazmaması için continue ekleniyor
-            if main_channel.upper() == "S SPORT PLUS":
-                main_channel_1 = "S-SPORT+1 MAC SAATI"
-                main_channel_2 = "S-SPORT+2 MAC SAATI"
-                # İlk kanal çıktısı
-                output1 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_1.upper()}\nLOGO URL= {logo_url}\n\n"
-                # İkinci kanal çıktısı
-                output2 = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel_2.upper()}\nLOGO URL= {logo_url}\n\n"
-                file.write(output1)
-                file.write(output2)
-                continue  # Bir daha yazmaması için continue ekleniyor
+            channel_corrections = {
+                "BEIN SPORTS 5": "BEIN SPORTS 5 HD",
+                "HT SPOR": "HT SPOR HD",
+                "TABII SPOR": "TABII SPOR 1 720P",
+                "TV100": "4K TR: TV100",
+                "EUROSPORT": "EUROSPORT 1",
+                "TV 8 BUÇUK": "TV 8.5"
+            }
+            main_channel = channel_corrections.get(main_channel.upper(), main_channel.upper())
             
-            # Genel durumda kanal bilgisi yazılıyor
-            output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel.upper()}\nLOGO URL= {logo_url}\n\n"
-            file.write(output)
+            special_channels = {
+                "BEIN SPORTS 1": ["BEIN SPORTS 8K FEED", "BEIN SPORTS 4K FEED", "BEIN SPORTS 1 H265"],
+                "S SPORT PLUS": ["S-SPORT+1 MAC SAATI", "S-SPORT+2 MAC SAATI"]
+            }
+            
+            if main_channel in special_channels:
+                for spec_channel in special_channels[main_channel]:
+                    output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {spec_channel}\nLOGO URL= {logo_url}\n\n"
+                    file.write(output)
+            else:
+                output = f"MAÇ ADI= {match_name.upper()}\nSAAT= {match_time.upper()}\nKANAL= {main_channel}\nLOGO URL= {logo_url}\n\n"
+                file.write(output)
 
 scrape_sporekrani()
