@@ -2,7 +2,7 @@ name: Generate SporEkranı File
 
 on:
   schedule:
-  - cron: "7 21 * * *"
+  - cron: "40 21 * * *"
   
   workflow_dispatch:
   
