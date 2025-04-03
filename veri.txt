@@ -1,77 +1,87 @@
-MAÇ ADI= ÇEVRE KONTROLÜ
-SAAT= 00:00
-KANAL= HT SPOR HD
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+MAÇ ADI= INSTITUTO AC - DEPORTIVO MADRYN
+SAAT= 00:45
+KANAL= TUTTUR TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
-MAÇ ADI= AKTÜEL FUTBOL
-SAAT= 00:00
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
-
-MAÇ ADI= AKTÜEL FUTBOL
-SAAT= 00:15
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
-
-MAÇ ADI= Q.ZHENG - M.SAKKARI
-SAAT= 01:00
-KANAL= BEIN SPORTS BEIN CONNECT
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
-
-MAÇ ADI= CORINTHIANS - CA HURACAN
+MAÇ ADI= SPORTING CRISTAL - PALMEIRAS
 SAAT= 01:00
 KANAL= S SPORT 2
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
-MAÇ ADI= CLEVELAND CAVALIERS - NEW YORK KNICKS
-SAAT= 02:00
-KANAL= S SPORT
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+MAÇ ADI= SON SAYFA GECE
+SAAT= 01:00
+KANAL= A SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= INDIANA PACERS - CHARLOTTE HORNETS
-SAAT= 02:00
-KANAL= TUTTUR TV
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
-
-MAÇ ADI= WASHINGTON WIZARDS - SACRAMENTO KINGS
-SAAT= 02:00
-KANAL= TUTTUR TV
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
-
-MAÇ ADI= V.GRACHEVA - E.MERTENS
-SAAT= 02:30
-KANAL= BEIN SPORTS BEIN CONNECT
+MAÇ ADI= A.KALINSKAYA - M.KEYS
+SAAT= 01:00
+KANAL= BEIN SPORTS MAX 1
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
 
-MAÇ ADI= BOSTON CELTICS - MIAMI HEAT
-SAAT= 02:30
+MAÇ ADI= SPOR ARTI
+SAAT= 01:30
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= WASHINGTON WIZARDS - ORLANDO MAGIC
+SAAT= 02:00
 KANAL= TUTTUR TV
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= HOUSTON ROCKETS - UTAH JAZZ
-SAAT= 03:00
+MAÇ ADI= BROOKLYN NETS - MINNESOTA TW
+SAAT= 02:30
 KANAL= NBA TV
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= OKC THUNDER - DETROIT PISTONS
-SAAT= 03:00
+MAÇ ADI= MIAMI HEAT - MEMPHIS GRIZZLIES
+SAAT= 02:30
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= MIAMI HEAT - MEMPHIS GRIZZLIES
+SAAT= 02:30
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= PHILADELPHIA 76ERS - MILWAUKEE BUCKS
+SAAT= 02:30
 KANAL= TUTTUR TV
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= DALLAS MAVERICKS - ATLANTA HAWKS
-SAAT= 03:30
+MAÇ ADI= TORONTO RAPTORS - PORTLAND TB
+SAAT= 02:30
 KANAL= TUTTUR TV
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= DENVER NUGGETS - SA SPURS
-SAAT= 04:00
-KANAL= TUTTUR TV
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+MAÇ ADI= D.KASATKINA - S.KENIN
+SAAT= 02:30
+KANAL= BEIN SPORTS MAX 1
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
 
-MAÇ ADI= LA CLIPPERS - NO PELICANS
+MAÇ ADI= NEWELL'S OLD BOYS - KIMBERLEY
+SAAT= 03:10
+KANAL= TUTTUR TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= LA LAKERS - GS WARRIORS
 SAAT= 05:00
 KANAL= TUTTUR TV
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= J.JACKSON - A.KORESHKOV
+SAAT= 05:00
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
+
+MAÇ ADI= J.JACKSON - A.KORESHKOV
+SAAT= 05:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
+
+MAÇ ADI= ANTRENMAN TURLARI-1
+SAAT= 05:30
+KANAL= BEIN SPORTS 4
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/NCWACnWeGJBJTMLG11AhxVYSn2nUUnTFs6mb5qKZ.svg
 
 MAÇ ADI= İLK BASKI
 SAAT= 07:00
@@ -83,10 +93,25 @@ SAAT= 08:00
 KANAL= A SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= İTALYA KUPASI
+MAÇ ADI= BAŞLAMA VURUŞU
+SAAT= 08:00
+KANAL= HT SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= ANTRENMAN TURLARI-2
+SAAT= 09:00
+KANAL= BEIN SPORTS 4
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/NCWACnWeGJBJTMLG11AhxVYSn2nUUnTFs6mb5qKZ.svg
+
+MAÇ ADI= TRENDYOL SÜPER LIG
 SAAT= 09:15
 KANAL= TRT SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= CRANBOURNE
+SAAT= 09:30
+KANAL= TJK TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg
 
 MAÇ ADI= İSPANYA LA LIGA
 SAAT= 09:45
@@ -113,6 +138,11 @@ SAAT= 11:00
 KANAL= A SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
+MAÇ ADI= FILENIN SULTANLARI TRT STÜDYOLARINDA
+SAAT= 11:00
+KANAL= TRT SPOR ARŞIV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
 MAÇ ADI= SPOR MANŞET
 SAAT= 11:00
 KANAL= TRT SPOR
@@ -123,9 +153,39 @@ SAAT= 11:00
 KANAL= BEIN SPORTS HABER
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
+MAÇ ADI= C.O'CONNELL - M.FUCSOVICS
+SAAT= 11:00
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= C.O'CONNELL - M.FUCSOVICS
+SAAT= 11:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= HT SPOR GÜNDEM
+SAAT= 11:00
+KANAL= HT SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
 MAÇ ADI= TRT GÜN ORTASI
-SAAT= 12:30
+SAAT= 12:00
 KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= S.BAEZ - F.COMESANA
+SAAT= 12:30
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= S.BAEZ - F.COMESANA
+SAAT= 12:30
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= KÜRSÜ
+SAAT= 12:30
+KANAL= HT SPOR HD
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
 MAÇ ADI= BEIN GÜN ORTASI
@@ -133,19 +193,24 @@ SAAT= 13:00
 KANAL= BEIN SPORTS HABER
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= REAL MADRID ŞAMPIYONLAR LIGI
+MAÇ ADI= FAIRVIEW
+SAAT= 13:25
+KANAL= TJK TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg
+
+MAÇ ADI= SPOR STÜDYOSU
 SAAT= 13:30
 KANAL= TRT SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= PSG ŞAMPIYONLAR LIGI
-SAAT= 13:45
-KANAL= TRT SPOR
+MAÇ ADI= BAKIŞ AÇISI
+SAAT= 13:30
+KANAL= HT SPOR HD
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= SPOR STÜDYOSU
+MAÇ ADI= GÜN ORTASI
 SAAT= 14:00
-KANAL= TRT SPOR
+KANAL= A SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
 MAÇ ADI= GÜNÜN ORTASI
@@ -158,57 +223,122 @@ SAAT= 14:00
 KANAL= TIVIBU SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= GÜN ORTASI
+MAÇ ADI= F.MISOLIC - F.COBOLLI
 SAAT= 14:00
-KANAL= A SPOR
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= F.MISOLIC - F.COBOLLI
+SAAT= 14:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= TRABZON BB - KÖYCEĞIZ BLD.
+SAAT= 14:30
+KANAL= TRT SPOR YILDIZ
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/qtvFbMTcbl6pxU9FlL9zkBn1hwUZCVcHYLjK0o4h.svg
+
+MAÇ ADI= SET SAYISI
+SAAT= 14:30
+KANAL= TRT SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= ANTALYA
+SAAT= 14:45
+KANAL= TJK TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg
+
+MAÇ ADI= FENERBAHÇE MEDICANA - THY
+SAAT= 15:00
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO9bampP7jQdWov0uW3RTnEget7.svg
 
 MAÇ ADI= SPOR GÜNDEMI
 SAAT= 15:00
 KANAL= A SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= GÜNDEM FUTBOL
-SAAT= 16:00
-KANAL= TRT SPOR
+MAÇ ADI= SATIR ARASI
+SAAT= 15:00
+KANAL= HT SPOR HD
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= BEŞIKTAŞ - FENERBAHÇE OPET
+MAÇ ADI= H.LOOKSUAN - F.SOR DECHAPAN
+SAAT= 15:30
+KANAL= ONE CHAMPIONSHIP YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
+
+MAÇ ADI= BATH
+SAAT= 15:40
+KANAL= TJK TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg
+
+MAÇ ADI= ESENLER EROKSPOR - ILAB BASKETBOL
 SAAT= 16:00
 KANAL= TRT SPOR YILDIZ
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= GAZIANTEP BASKET - FENERBAHÇE BEKO
+MAÇ ADI= X.GONZALEZ - W.GONCALVES
 SAAT= 16:00
-KANAL= TBF TV YOUTUBE
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
-
-MAÇ ADI= ÇEYREK FINAL
-SAAT= 16:00
-KANAL= EUROSPORT 1
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/qvamvyM56j2JCTTgaN0CZJLBj8km6vLpTFAA3iYm.svg
-
-MAÇ ADI= ANADOLU EFES - TOFAŞ
-SAAT= 17:00
-KANAL= TBF TV YOUTUBE
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+KANAL= ONE CHAMPIONSHIP YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
 
 MAÇ ADI= DÜNYADAN SPOR
+SAAT= 16:30
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= P.WANTAWEE - P.WOR SANTAI
+SAAT= 16:30
+KANAL= ONE CHAMPIONSHIP YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
+
+MAÇ ADI= İSTANBULSPOR - Y.MALATYASPOR
+SAAT= 17:00
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= BEŞIKTAŞ - KONYA BB
+SAAT= 17:00
+KANAL= THF TV YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/qtvFbMTcbl6pxU9FlL9zkBn1hwUZCVcHYLjK0o4h.svg
+
+MAÇ ADI= W.SAENCHAI - M.BOOMDEKSEAN
+SAAT= 17:00
+KANAL= ONE CHAMPIONSHIP YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
+
+MAÇ ADI= İZMIR
+SAAT= 17:00
+KANAL= TJK TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg
+
+MAÇ ADI= D.DZUMHUR - P.MARTINEZ
+SAAT= 17:00
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= D.DZUMHUR - P.MARTINEZ
+SAAT= 17:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg
+
+MAÇ ADI= K.UTHAI - FERZAN CICEK
 SAAT= 17:30
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+KANAL= ONE CHAMPIONSHIP YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/tAMTMy3mnAOaBhxOXPGSTzrSxZCAf7pbezbzIaGL.svg
 
-MAÇ ADI= TIVIBU ANA HABER
+MAÇ ADI= SLOVENYA - TÜRKIYE
+SAAT= 17:30
+KANAL= TABII SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= GALLARDO - EMLAK KONUT GELIŞIM
 SAAT= 18:00
-KANAL= TIVIBU SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+KANAL= TBF TV YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= SPOR MERKEZI
-SAAT= 18:00
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
-
-MAÇ ADI= KUPADA BUGÜN
+MAÇ ADI= ANA HABER
 SAAT= 18:00
 KANAL= A SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
@@ -216,6 +346,41 @@ LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7K
 MAÇ ADI= BEIN ANA HABER
 SAAT= 18:00
 KANAL= BEIN SPORTS HABER
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= TIVIBU ANA HABER
+SAAT= 18:00
+KANAL= TIVIBU SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= HTSPOR ANA HABER
+SAAT= 18:00
+KANAL= HT SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= ECZACIBASI - VAKIFBANK
+SAAT= 18:30
+KANAL= TRT SPOR YILDIZ
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO9bampP7jQdWov0uW3RTnEget7.svg
+
+MAÇ ADI= URLA BLD. - ÇANKAYA ÜNI.
+SAAT= 18:30
+KANAL= TBF TV YOUTUBE
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= GALATASARAY - ÇBK MERSIN
+SAAT= 18:30
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= DARÜŞŞAFAKA - KARŞIYAKA
+SAAT= 19:00
+KANAL= BEIN SPORTS 5 HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= GÜNDEM FUTBOL
+SAAT= 19:00
+KANAL= TRT SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
 MAÇ ADI= GS TV ANA HABER
@@ -228,83 +393,183 @@ SAAT= 19:07
 KANAL= FB TV
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= INTER ŞAMPIYONLAR LIGI
-SAAT= 19:50
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
-
-MAÇ ADI= MONACO - PANATHINAIKOS
-SAAT= 20:00
-KANAL= S SPORT
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
-
-MAÇ ADI= SPOR AKŞAMI
-SAAT= 20:00
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
-
-MAÇ ADI= ZALGIRIS KAUNAS - PARTIZAN
-SAAT= 20:00
-KANAL= S SPORT 2
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
-
-MAÇ ADI= BEŞIKTAŞ - GÖZTEPE
-SAAT= 20:30
-KANAL= ATV
+MAÇ ADI= BRAUNSCHWEIG - PADERBORN
+SAAT= 19:30
+KANAL= TIVIBU SPOR 3
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
-MAÇ ADI= TAKTIK ANALIZ
-SAAT= 20:30
-KANAL= TRT SPOR
+MAÇ ADI= KARLSRUHE - HANNOVER 96
+SAAT= 19:30
+KANAL= TIVIBU SPOR 2
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= BUNDESLIGA ÖZEL
+SAAT= 19:30
+KANAL= TIVIBU SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= MACCABI PLAYTIKA - BAYERN MÜNIH
-SAAT= 21:05
+MAÇ ADI= PERSPEKTIF
+SAAT= 19:30
+KANAL= HT SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= GULFSTREAM
+SAAT= 19:35
+KANAL= TJK TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg
+
+MAÇ ADI= ADANA DEMIRSPOR - KAYSERISPOR
+SAAT= 20:00
+KANAL= BEIN SPORTS 8K FEED
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= ADANA DEMIRSPOR - KAYSERISPOR
+SAAT= 20:00
+KANAL= BEIN SPORTS 4K FEED
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= ADANA DEMIRSPOR - KAYSERISPOR
+SAAT= 20:00
+KANAL= BEIN SPORTS 1 H265
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= ŞANLIURFASPOR - BOLUSPOR
+SAAT= 20:00
+KANAL= BEIN SPORTS MAX 2
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= AMEDSPOR - IĞDIRSPOR
+SAAT= 20:00
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= EUROLEAGUE MAÇA DOĞRU
+SAAT= 20:15
+KANAL= S SPORT
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= HT 90
+SAAT= 20:30
+KANAL= HT SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= ALBA BERLIN - OLYMPIAKOS
+SAAT= 21:00
 KANAL= S-SPORT+1 MAC SAATI
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= MACCABI PLAYTIKA - BAYERN MÜNIH
-SAAT= 21:05
+MAÇ ADI= ALBA BERLIN - OLYMPIAKOS
+SAAT= 21:00
 KANAL= S-SPORT+2 MAC SAATI
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
 
-MAÇ ADI= KUPADA BUGÜN GECE
-SAAT= 21:15
+MAÇ ADI= KIZILYILDIZ - ANADOLU EFES
+SAAT= 21:00
+KANAL= S SPORT
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= AL HILAL - AL NASSR
+SAAT= 21:00
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= AL HILAL - AL NASSR
+SAAT= 21:00
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= FUTBOL MEYDANI
+SAAT= 21:00
 KANAL= A SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= PSG - SZEGED
+MAÇ ADI= OĞUZ ÇETIN
+SAAT= 21:00
+KANAL= TRT SPOR ARŞIV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= HEERENVEEN - WILLEM II
+SAAT= 21:00
+KANAL= TUTTUR TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= BASKONIA - ASVEL VILLEURBANNE
+SAAT= 21:30
+KANAL= S-SPORT+1 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= BASKONIA - ASVEL VILLEURBANNE
+SAAT= 21:30
+KANAL= S-SPORT+2 MAC SAATI
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= VIRTUS BOLOGNA - OLIMPIA MILANO
+SAAT= 21:30
+KANAL= S SPORT 2
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
+
+MAÇ ADI= AUGSBURG - BAYERN MÜNIH
+SAAT= 21:30
+KANAL= TIVIBU SPOR 1
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= NICE - NANTES
 SAAT= 21:45
-KANAL= SPORTSTV
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/qtvFbMTcbl6pxU9FlL9zkBn1hwUZCVcHYLjK0o4h.svg
+KANAL= BEIN SPORTS BEIN CONNECT
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
-MAÇ ADI= ÇEYREK FINALLER
+MAÇ ADI= GENOA - UDINESE
+SAAT= 21:45
+KANAL= CBC SPORT
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= MECHELEN - DENDER
+SAAT= 21:45
+KANAL= TUTTUR TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= RAYO VALLECANO - ESPANYOL
 SAAT= 22:00
-KANAL= EUROSPORT 1
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/qvamvyM56j2JCTTgaN0CZJLBj8km6vLpTFAA3iYm.svg
+KANAL= TIVIBU SPOR 3
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
 
-MAÇ ADI= HER GECE SPOR
+MAÇ ADI= AKTÜEL FUTBOL
+SAAT= 22:00
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= BLACKBURN - MIDDLESBROUGH
+SAAT= 22:00
+KANAL= TUTTUR TV
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
+
+MAÇ ADI= TIVIBU SPOR'DA HER GÜN SPOR
 SAAT= 22:00
 KANAL= TIVIBU SPOR
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
-MAÇ ADI= REAL MADRID - PARIS
-SAAT= 22:00
-KANAL= S SPORT
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg
-
-MAÇ ADI= CHELSEA - TOTTENHAM
-SAAT= 22:00
-KANAL= BEIN SPORTS 3
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
-
-MAÇ ADI= SPORTING LISBON - RIO AVE
-SAAT= 22:15
-KANAL= TRT SPOR
-LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg
-
-MAÇ ADI= TÜRKIYE’NIN KUPASI
+MAÇ ADI= ÇEVRE KONTROLÜ
 SAAT= 22:30
+KANAL= HT SPOR HD
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= EUROLEAGUE MAÇIN ARDINDAN
+SAAT= 23:00
+KANAL= S SPORT
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= SON SAYFA
+SAAT= 23:00
 KANAL= A SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= İLERI ÜÇLÜ
+SAAT= 23:00
+KANAL= TRT SPOR
+LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
+
+MAÇ ADI= GECE YARISI
+SAAT= 23:30
+KANAL= HT SPOR HD
 LOGO URL= https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg
 
