@@ -52,7 +52,8 @@ def scrape_sporekrani():
                 "TABII SPOR": "TABII SPOR HD",
                 "TV100": "4K TR: TV100",
                 "EUROSPORT": "EUROSPORT 1",
-                "TV 8 BUÇUK": "TV 8.5"
+                "TV 8 BUÇUK": "TV 8.5",
+                "SPORTSTV": "SPORTS TV"
             }
             main_channel = channel_corrections.get(main_channel.upper(), main_channel.upper())
             
