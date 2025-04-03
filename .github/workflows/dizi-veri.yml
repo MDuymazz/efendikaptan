@@ -2,7 +2,7 @@ name: Fetch TV Shows and Save to File
 
 on:
   schedule:
-     - cron: "9 21 * * *"
+     - cron: "30 21 * * *"
   workflow_dispatch:
 
 jobs:
