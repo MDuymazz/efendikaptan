@@ -2,8 +2,6 @@ name: Run Data Script
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "30 8,20 * * *"
 
 jobs:
   selenium-job:
