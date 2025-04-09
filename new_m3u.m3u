@@ -1,49 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 00:00 AVRUPA STÜDYOSU (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 00:45 AVRUPA STÜDYOSU GECE (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="NBA TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 03:00 MILWAUKEE BUCKS - MINNESOTA TW (NBA TV)
+#EXTINF:-1 tvg-id="None" tvg-name="NBA TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 02:00 ORLANDO MAGIC - BOSTON CELTICS (NBA TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2430655089/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 03:00 OKC THUNDER - LA LAKERS (S SPORT)
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 02:30 DALLAS MAVERICKS - LA LAKERS (S SPORT)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3718336295/index.m3u8
+https://vavoo.to/play/3346549722/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 03:30 RIVER PLATE - BARCELONA SC (S SPORT 2)
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 03:30 FLAMENGO - CENTRAL CORDOBA (S SPORT 2)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1313768516/index.m3u8
+https://vavoo.to/play/1234604880/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 07:20 İLK BASKI (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="NBA TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 05:30 LA CLIPPERS - HOUSTON ROCKETS (NBA TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2430655089/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 07:00 İLK BASKI (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 08:00 SABAH SPORU (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 08:35 PINJARRA PARK (TJK TV)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2322888064/index.m3u8
+https://vavoo.to/play/1561958971/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 09:15 UEFA ŞAMPIYONLAR LIGI (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 10:00 SABAH SPOR BÜLTENI (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="GS TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 10:00 GÜNAYDIN GALATASARAY (GS TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -55,215 +55,195 @@ https://vavoo.to/play/4240429325/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1159899920/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 11:00 SPOR MANŞET (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 10:30 PAKENHAM (TJK TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2322888064/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 11:00 SPOR AJANSI (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
+https://vavoo.to/play/1561958971/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 11:00 SPOR MANŞET (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 11:00 BEIN SABAH (BEIN SPORTS HABER)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2806079612/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 D.ALTMAIER - R.GASQUET (S-SPORT+1 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 SPOR STÜDYOSU (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 A.RUBLEV - A.FILS (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 D.ALTMAIER - R.GASQUET (S-SPORT+2 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 A.RUBLEV - A.FILS (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2314183566/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 J.LEHECKA - L.MUSETTI (S-SPORT+1 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 J.DRAPER - A.D.FOKINA (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 J.LEHECKA - L.MUSETTI (S-SPORT+2 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:00 J.DRAPER - A.D.FOKINA (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2314183566/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:30 TRT GÜN ORTASI (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 12:30 CHANTILLY (TJK TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2322888064/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:00 BEIN GÜN ORTASI (BEIN SPORTS HABER)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2806079612/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:00 SPOR STÜDYOSU (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 D.ALTMAIER - C.ALCARAZ (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:25 HAPPY VALLEY (TJK TV)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 D.ALTMAIER - C.ALCARAZ (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:45 İZMIR (TJK TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2322888064/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 F.CERUNDOLO - C.ALCARAZ (S-SPORT+1 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 Y.MALATYASPOR - BANDIRMASPOR (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2559756791/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 F.CERUNDOLO - C.ALCARAZ (S-SPORT+2 MAC SAATI)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2314183566/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 A.RUBLEV - G.MONFILS (S-SPORT+1 MAC SAATI)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2559756791/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 A.RUBLEV - G.MONFILS (S-SPORT+2 MAC SAATI)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2314183566/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO9bampP7jQdWov0uW3RTnEget7.svg" group-title="GÜNLÜK SPOR AKIŞI", 13:30 GALATASARAY DAIKIN - FENERBAHÇE MEDICANA (TRT SPOR YILDIZ)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2081577417/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 GÜN ORTASI (A SPOR)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="GS TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 GÜNÜN ORTASI (GS TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4240429325/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 ERZURUMSPOR - ÇORUM FK (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 A.POPYRIN - C.RUUD (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:45 İSTANBUL (TJK TV)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 A.POPYRIN - C.RUUD (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2322888064/index.m3u8
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 14:00 GÜN ORTASI (A SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1561958971/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 M.BERRETTINI - L.MUSETTI (S-SPORT+1 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 M.BERRETTINI - L.MUSETTI (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 SPOR GÜNDEMI (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
+https://vavoo.to/play/1561958971/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="SPOR SMART" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 LION CITY - SYDNEY FC (SPOR SMART)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1771511397/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 R.BAUTISTA - C.RUUD (S-SPORT+1 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:30 D.MEDVEDEV - A.DE MINAUR (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 R.BAUTISTA - C.RUUD (S-SPORT+2 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:30 D.MEDVEDEV - A.DE MINAUR (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2314183566/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 N.DJOKOVIC - A.TABILO (S-SPORT+1 MAC SAATI)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2559756791/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 15:00 N.DJOKOVIC - A.TABILO (S-SPORT+2 MAC SAATI)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2314183566/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO9bampP7jQdWov0uW3RTnEget7.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:00 ECZACIBASI - VAKIFBANK (TRT SPOR YILDIZ)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2081577417/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:00 GÜNDEM FUTBOL (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:30 D.MEDVEDEV - A.MULLER (S-SPORT+1 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:15 LINGFIELD PARK (TJK TV)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2322888064/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:30 N.BORGES - S.TSITSIPAS (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:30 D.MEDVEDEV - A.MULLER (S-SPORT+2 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:30 N.BORGES - S.TSITSIPAS (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2314183566/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:30 V.VACHEROT - G.DIMITROV (S-SPORT+1 MAC SAATI)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:00 GENÇLERBIRLIĞI - ÜMRANIYESPOR (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2559756791/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 16:30 V.VACHEROT - G.DIMITROV (S-SPORT+2 MAC SAATI)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2314183566/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:00 ESENLER EROKSPOR - FATIH KARAGÜMRÜK (TRT SPOR)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/LYSnEQ0pHTXqHaILoIxUuTd4rJn60dgBvMECtjJY.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:00 ETAP 3 (EUROSPORT 1)
+#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/LYSnEQ0pHTXqHaILoIxUuTd4rJn60dgBvMECtjJY.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:00 ETAP 4 (EUROSPORT 1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3458631461/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="EUROSPORT 2" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/LYSnEQ0pHTXqHaILoIxUuTd4rJn60dgBvMECtjJY.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:45 ERKEKLER (EUROSPORT 2)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:00 A.TABILO - G.DIMITROV (S-SPORT+1 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2307325429/index.m3u8
+https://vavoo.to/play/2559756791/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:45 TRT SPOR MERKEZI (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/AffkZa98ZDeZMJUJ5hsCwWZPmnUIminMCG3Q8Ri1.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:00 A.TABILO - G.DIMITROV (S-SPORT+2 MAC SAATI)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2314183566/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 18:00 ANA HABER (A SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 17:30 ANTALYA (TJK TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
+https://vavoo.to/play/2322888064/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS HABER" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 18:00 BEIN ANA HABER (BEIN SPORTS HABER)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2806079612/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 18:15 ELAZIĞ (TJK TV)
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 18:00 ANA HABER (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2322888064/index.m3u8
+https://vavoo.to/play/1561958971/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO9bampP7jQdWov0uW3RTnEget7.svg" group-title="GÜNLÜK SPOR AKIŞI", 18:30 ZIRAAT BANKKART - RZESZOW (TRT SPOR YILDIZ)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/qtvFbMTcbl6pxU9FlL9zkBn1hwUZCVcHYLjK0o4h.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:00 AVUSTURYA - TÜRKIYE (TRT SPOR YILDIZ)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2081577417/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:00 BAHÇEŞEHIR KLJ - PETKIMSPOR (BEIN SPORTS 5 HD)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:00 SPOR MERKEZI (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2737963486/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:00 FUTBOL AKLI (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="NBA TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:00 AL ITTIHAD ALEXANDRIA - STADE MALIEN (NBA TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/2430655089/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="GS TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:05 GS TV ANA HABER (GS TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
@@ -275,83 +255,143 @@ https://vavoo.to/play/4240429325/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1540748539/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:30 NYMBURK - GALATASARAY (TIVIBU SPOR 1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1528949791/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 2" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:30 AEK ATHENS - JSF NANTERRE (TIVIBU SPOR 2)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/478254799/index.m3u8
-
 #EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:45 KEENELAND (TJK TV)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2322888064/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 20:00 BOLUSPOR - SAKARYASPOR (TRT SPOR)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="BEIN SPORTS 2" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 20:00 PENDIKSPOR - ANKARAGÜCÜ (BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1447241506/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 20:00 EUROLEAGUE TV (S SPORT)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3718336295/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 3" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 UNICAJA MALAGA - REGGIANA (TIVIBU SPOR 3)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/568442751/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 SPOR MERKEZI (A SPOR)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="SPORTS TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/1TrF3EsSI2idiQO9bampP7jQdWov0uW3RTnEget7.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:30 IG NOVARA - IMOCO VOLLEY CONEGLIANO (SPORTS TV)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3422827985/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TJK TV" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/PLKobdxyEjGkoDLOlJRho6rmvYRoCdxpIAmvMqlJ.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:30 WILL ROGERS DOWNS (TJK TV)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2322888064/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:30 ÇBK MERSIN - BOURGES BASKET (TRT SPOR YILDIZ)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2081577417/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 SPOR AKŞAMI (TRT SPOR)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
-
-#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 PSG - ASTON VILLA (TRT 1)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 19:45 LEGIA VARŞOVA - CHELSEA (TRT 1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2041026135/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TIVIBU SPOR 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:45 IBEROSTAR TENERIFE - TORTONA (TIVIBU SPOR 1)
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 20:00 ADANASPOR - KOCAELISPOR (TRT SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1528949791/index.m3u8
+https://vavoo.to/play/2781429267/index.m3u8
 
-#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:45 TIRSENSE - BENFICA (TRT SPOR)
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 20:15 EUROLEAGUE MAÇA DOĞRU (S SPORT)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2114335424/index.m3u8
+https://vavoo.to/play/3346549722/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 ASVEL VILLEURBANNE - MONACO (S-SPORT+1 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 ASVEL VILLEURBANNE - MONACO (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 BAYERN MÜNIH - FENERBAHÇE BEKO (S SPORT)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3346549722/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 AL ITTIHAD - AL OROBAH (S-SPORT+1 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 AL ITTIHAD - AL OROBAH (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:00 FUTBOL MEYDANI (A SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1561958971/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:15 OLYMPIAKOS - MACCABI PLAYTIKA (S-SPORT+1 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:15 OLYMPIAKOS - MACCABI PLAYTIKA (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT 2" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:30 PARTIZAN - REAL MADRID (S SPORT 2)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1234604880/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:30 OLIMPIA MILANO - BASKONIA (S-SPORT+1 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:30 OLIMPIA MILANO - BASKONIA (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:45 PARIS - ALBA BERLIN (S-SPORT+1 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2559756791/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/IYyMI02CDfvebeHspZADnTaVZA96sxh4Fks6fZqD.svg" group-title="GÜNLÜK SPOR AKIŞI", 21:45 PARIS - ALBA BERLIN (S-SPORT+2 MAC SAATI)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2314183566/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 FUTBOL ANADOLU (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR HD" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 DJURGARDEN - RAPID WIEN (TABII SPOR HD)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2259480087/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR HD" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 NK CELJE - FIORENTINA (TABII SPOR HD)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2259480087/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR HD" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 REAL BETIS - JAGIELLONIA (TABII SPOR HD)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2259480087/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT 1" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 TOTTENHAM - EINTRACHT FRANKFURT (TRT 1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2041026135/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TABII SPOR HD" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/HrHBG9jQU5nv4zO5utrTJ24yp69ol4V8nZX5n2rh.svg" group-title="GÜNLÜK SPOR AKIŞI", 22:00 GLASGOW RANGERS - ATHLETIC BILBAO (TABII SPOR HD)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2259480087/index.m3u8
 
 #EXTINF:-1 tvg-id="None" tvg-name="A SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 23:00 SON SAYFA (A SPOR)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/819272696/index.m3u8
+https://vavoo.to/play/1561958971/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="S SPORT" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 23:00 EUROLEAGUE MAÇIN ARDINDAN (S SPORT)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3346549722/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 23:30 UEFA AVRUPA LIGI (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 23:40 UEFA AVRUPA KONFERANS LIGI (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-name="TRT SPOR" tvg-logo="https://img.sporekrani.com/tr_h_30,w_30,c_limit/sports/sluACvZE4a9qw7Kf9y5D1miDOQBWtai2AZvNM194.svg" group-title="GÜNLÜK SPOR AKIŞI", 23:50 AVRUPA STÜDYOSU (TRT SPOR)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2781429267/index.m3u8
 
